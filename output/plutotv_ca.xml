@@ -3786,6 +3786,11 @@
         <desc>Controversy about a proposed supermarket ruining the quality of life in a small village, marital infidelity, contaminated soil and kinky sex lead to murder.</desc>
         <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62e92447ea1e2a000735ed33" start="20261029060900 +0000" stop="20261029080000 +0000">
+        <title>Midsomer Murders</title>
+        <desc>A heated competition among Midsomer church choirs is interrupted by the bludgeon murder of the Midsomer Worthy's tenor, a local artist.</desc>
+        <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62e924f2be69bc0007b7d53d" start="20261029011200 +0000" stop="20261029020400 +0000">
         <title>Unsolved Mysteries with Robert Stack</title>
         <desc>Hosted by Robert Stack, this series uses re-enactments and interviews to retell the circumstances of mysteries that remain unsolved. Covering crimes, tales of lost love, unexplained history and paranormal events.</desc>
@@ -17842,6 +17847,11 @@
         <icon src="https://images.pluto.tv/series/6a5102ad3630c7ab4acca6b2/tile_1784045407119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd394e9269330008413302" start="20261029093000 +0000" stop="20261029104500 +0000">
+        <title>BSWW Women's Euro Beach Soccer League</title>
+        <desc>Moldova, Regular Phase.</desc>
+        <icon src="https://images.pluto.tv/series/6a5784c43aa4669fc7f6c299/tile_1786043669428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd394e9269330008413302" start="20261029104500 +0000" stop="20261029120000 +0000">
         <title>BSWW Women's Euro Beach Soccer League</title>
         <desc>Moldova, Regular Phase.</desc>
         <icon src="https://images.pluto.tv/series/6a5784c43aa4669fc7f6c299/tile_1786043669428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -35266,6 +35276,11 @@ his integrity and his relationship with Colt.</desc>
         <title>The Exception</title>
         <desc>A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.</desc>
         <icon src="https://images.pluto.tv/series/665dc6c01e15340013a09b18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20261029224400 +0000" stop="20261030004000 +0000">
+        <title>Churchill</title>
+        <desc>This absorbing film follows Winston Churchill in the 96 hours leading up to D-Day, as he battles indecision, exhaustion and guilt and attempts to stop the invasion.</desc>
+        <icon src="https://images.pluto.tv/series/68adafd99889a990ed4a5fc7/tile_1764823682598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb7f0db2eb30007376d4d" start="20261029173900 +0000" stop="20261029180900 +0000">
         <title>Cheers</title>
@@ -53259,7 +53274,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A stagecoach holdup orchestrated by Johnny Ringo and Curly Bill gives Wyatt Earp the opportunity he's been waiting for--a chance to get the rival factions to turn on each other.</desc>
         <icon src="https://images.pluto.tv/series/62e43034bcc698001331019c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b97c5f0d8c8e0007cf48b9" start="20261030021500 +0000" stop="20261030060000 +0000">
+    <programme channel="62b97c5f0d8c8e0007cf48b9" start="20261030021500 +0000" stop="20261030024500 +0000">
+        <title>The Life and Legend of Wyatt Earp</title>
+        <desc>Earp recalls in court the details of the day when the Clanton gang rode into Tombstone to shoot it out with the Earps.</desc>
+        <icon src="https://images.pluto.tv/series/62e43034bcc698001331019c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b97c5f0d8c8e0007cf48b9" start="20261030024500 +0000" stop="20261030031500 +0000">
+        <title>The Life and Legend of Wyatt Earp</title>
+        <desc>After the shootout, Sheriff Behan wants the Earps and Doc hung or shot. Behan plans to charge them with murder while Curly Brocius and Johnny Ringo plan quicker revenge.</desc>
+        <icon src="https://images.pluto.tv/series/62e43034bcc698001331019c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b97c5f0d8c8e0007cf48b9" start="20261030031500 +0000" stop="20261030060000 +0000">
         <title>Life &amp; Legend of Wyatt Earp</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53269,7 +53294,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>In Georgia, a series of bizarre shootings terrorized a small town.  Two people were killed.  Two others were critically wounded.  At first, the shootings seemed targeted.  Then they seemed random.</desc>
         <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdaa32a1b2fd00076693e8" start="20261030020200 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdaa32a1b2fd00076693e8" start="20261030020200 +0000" stop="20261030030200 +0000">
+        <title>The FBI Files</title>
+        <desc>Surveillance video is often the most precise witness to a crime.  After three brutal murders were caught on tape in Alabama, the suspects fled the area.  They had an arsenal of stolen weapons, and swore they wouldn't be taken alive.</desc>
+        <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdaa32a1b2fd00076693e8" start="20261030030200 +0000" stop="20261030060000 +0000">
         <title>FBI Files</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdaa32a1b2fd00076693e8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53279,7 +53309,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Drowning deaths often look like accidents and water can destroy the scant clues the killer may have left behind. Investigators must turn to forensic science to solve cases where the victim is found dead in the water.</desc>
         <icon src="https://images.pluto.tv/series/62d1c1ecbe1ffb0014fb596e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdabbc5611f2000761ca30" start="20261030024600 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdabbc5611f2000761ca30" start="20261030024600 +0000" stop="20261030034600 +0000">
+        <title>The New Detectives</title>
+        <desc>At the scene of a murder, sometimes the victim provides the only clues to their killer. Forensic anthropologists use skeletal remains to decipher the clues written in the bones.</desc>
+        <icon src="https://images.pluto.tv/series/62d1c1ecbe1ffb0014fb596e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdabbc5611f2000761ca30" start="20261030034600 +0000" stop="20261030060000 +0000">
         <title>The New Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53289,7 +53324,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>After Josh reluctantly takes the task of finding a man and his wife's pet ewe, he becomes the butt of many jokes in the community while cattlemen nearly hang him when he mentions sheep.</desc>
         <icon src="https://images.pluto.tv/series/66cdff174d30430013f0457c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdacc96a3751000811842d" start="20261030020700 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdacc96a3751000811842d" start="20261030020700 +0000" stop="20261030023800 +0000">
+        <title>Wanted: Dead or Alive</title>
+        <desc>When a convicted killer escapes prison, Josh is hired for $500 to protect the woman whose testimony put him there.</desc>
+        <icon src="https://images.pluto.tv/series/66cdff174d30430013f0457c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdacc96a3751000811842d" start="20261030023800 +0000" stop="20261030030900 +0000">
+        <title>Wanted: Dead or Alive</title>
+        <desc>Josh rides into a town looking for a man who asked him to come there for a job that pays $500.</desc>
+        <icon src="https://images.pluto.tv/series/66cdff174d30430013f0457c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdacc96a3751000811842d" start="20261030030900 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Westerns</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdacc96a3751000811842d/featuredImage_1778878930457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53299,7 +53344,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A young woman attends evening church services, then disappears. When her abandoned car is found, the tank is empty and a gas can she kept in her trunk for emergencies is missing.</desc>
         <icon src="https://images.pluto.tv/series/62d6f42d75b9dc0013cb88b7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92392a3e6270007f562e8" start="20261030020700 +0000" stop="20261030060000 +0000">
+    <programme channel="62e92392a3e6270007f562e8" start="20261030020700 +0000" stop="20261030023400 +0000">
+        <title>Forensic Files</title>
+        <desc>When more than 700 Oregonians contracted food poisoning from a unique strain of salmonella in 1984, investigators uncovered a secret plot to influence local elections.</desc>
+        <icon src="https://images.pluto.tv/series/62d6f42d75b9dc0013cb88b7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92392a3e6270007f562e8" start="20261030023400 +0000" stop="20261030030100 +0000">
+        <title>Forensic Files</title>
+        <desc>For years, a woman suffered from what appeared to be the unpleasant side effects of lithium, a drug prescribed to treat bipolar disorder. When she died, investigators had to determine if her death was due to natural causes, suicide or murder.</desc>
+        <icon src="https://images.pluto.tv/series/62d6f42d75b9dc0013cb88b7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92392a3e6270007f562e8" start="20261030030100 +0000" stop="20261030060000 +0000">
         <title>Forensic Files</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92392a3e6270007f562e8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53309,7 +53364,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When a man is murdered during the reopening of a village, Barnaby and his new partner (Nick Hendrix, "Captain America") must unravel a sinister web of lies in order to catch the killer.</desc>
         <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92447ea1e2a000735ed33" start="20261030022700 +0000" stop="20261030060000 +0000">
+    <programme channel="62e92447ea1e2a000735ed33" start="20261030022700 +0000" stop="20261030041200 +0000">
+        <title>Midsomer Murders</title>
+        <desc>The Bleakridge Watch is an overzealous neighborhood watch group. When one of their members dies, Barnaby uncovers just how far some people will go for power.</desc>
+        <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92447ea1e2a000735ed33" start="20261030041200 +0000" stop="20261030060000 +0000">
         <title>Midsomer Murders</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53319,7 +53379,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>This episode includes: Arizona Souvenir Killer, Amish Hostage Murder, Coin Scam, Postal Crime, Real Dr. Doolittle and Unknown Mom.</desc>
         <icon src="https://images.pluto.tv/series/67509b77c394bf0013cc0477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e924f2be69bc0007b7d53d" start="20261030021400 +0000" stop="20261030060000 +0000">
+    <programme channel="62e924f2be69bc0007b7d53d" start="20261030021400 +0000" stop="20261030030500 +0000">
+        <title>Unsolved Mysteries with Dennis Farina</title>
+        <desc>This episode includes: Musician Sings the Blues, Killer Casanova, Update: Victorio's Gold, Rudolph on the Run and Dress-Up Escape.</desc>
+        <icon src="https://images.pluto.tv/series/67509b77c394bf0013cc0477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e924f2be69bc0007b7d53d" start="20261030030500 +0000" stop="20261030060000 +0000">
         <title>Unsolved Mysteries</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e924f2be69bc0007b7d53d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53329,7 +53394,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A report about how serial killer Andrew Urdiales was identified, arrested and convicted, and about the young woman who became the only one of his victims to survive.</desc>
         <icon src="https://images.pluto.tv/series/62d1b8ba75b9dc0013ca09f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e925bc68d18a00077bb990" start="20261030021100 +0000" stop="20261030060000 +0000">
+    <programme channel="62e925bc68d18a00077bb990" start="20261030021100 +0000" stop="20261030030000 +0000">
+        <title>48 Hours</title>
+        <desc>The case of Shelley Mook, a young mother and Tennessee school teacher who mysteriously vanished after visiting her ex-husband, is examined.</desc>
+        <icon src="https://images.pluto.tv/series/62d1b8ba75b9dc0013ca09f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e925bc68d18a00077bb990" start="20261030030000 +0000" stop="20261030034700 +0000">
+        <title>48 Hours</title>
+        <desc>Patrick Bradford, was convicted of stabbing his mistress to death. Determined to win his acquittal, Deborah Nolan, a close friend, and staunch supporter of Bradford’s, quit her teaching job and went to law school to take on his defense.</desc>
+        <icon src="https://images.pluto.tv/series/62d1b8ba75b9dc0013ca09f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e925bc68d18a00077bb990" start="20261030034700 +0000" stop="20261030060000 +0000">
         <title>48 Hours</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e925bc68d18a00077bb990/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53339,7 +53414,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When Marine Staff Sergeant Travis Cobb's body is found crushed in a junkyard car, NCIS is called to investigate. We learn our Sergeant also participated in illegal street races, in true Fast and Furious style.</desc>
         <icon src="https://images.pluto.tv/series/66b67dc617101c00131c0cbd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92708a7ce600007b2676a" start="20261030021400 +0000" stop="20261030060000 +0000">
+    <programme channel="62e92708a7ce600007b2676a" start="20261030021400 +0000" stop="20261030030500 +0000">
+        <title>NCIS: Hawai'i</title>
+        <desc>Tennant and the NCIS team are called to investigate a fatal car crash involving a Navy Officer. But this accident is more complicated than meets the eye. The real Navy Officer is still alive and the dead woman is an imposter.</desc>
+        <icon src="https://images.pluto.tv/series/66b67dc617101c00131c0cbd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92708a7ce600007b2676a" start="20261030030500 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Crime Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53349,7 +53429,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The incredible story of Bob Lowe, an innocent bystander who witnessed a mob murder, then agreed to enter the witness protection program as he waited to testify at the trial.</desc>
         <icon src="https://images.pluto.tv/series/669544c8dc6f2f00131b0a0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e9289f8d467f0007fbc701" start="20261030021700 +0000" stop="20261030060000 +0000">
+    <programme channel="62e9289f8d467f0007fbc701" start="20261030021700 +0000" stop="20261030030600 +0000">
+        <title>American Justice</title>
+        <desc>Tim Boczkowski, a well-liked member of a community near Pittsburgh, is accused of murdering his first wife in a bathtub and his second wife in a hot tub. Includes interviews with Tim's children Randy, Sandy, and Todd.</desc>
+        <icon src="https://images.pluto.tv/series/669544c8dc6f2f00131b0a0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9289f8d467f0007fbc701" start="20261030030600 +0000" stop="20261030060000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53359,7 +53444,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Cinnamon and Rollin become cabaret performers in a plot to get a deranged man (guest Fritz Weaver) to fall in love with Cinnamon, then kill her.</desc>
         <icon src="https://images.pluto.tv/series/62d6e4611f73f6001363901e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ea43aa0c43540007f2db96" start="20261030022100 +0000" stop="20261030060000 +0000">
+    <programme channel="62ea43aa0c43540007f2db96" start="20261030022100 +0000" stop="20261030032100 +0000">
+        <title>Mission: Impossible</title>
+        <desc>In a bold experiment with a man's mind, the IMF blanks out an enemy agent's memory (guest star Henry Silva), then sets out to make him think he is someone else.</desc>
+        <icon src="https://images.pluto.tv/series/62d6e4611f73f6001363901e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea43aa0c43540007f2db96" start="20261030032100 +0000" stop="20261030060000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53369,7 +53459,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Evidence from the stabbing of a Marine Sergeant leads Torres to meet his father, Miguel (Steven Bauer), who left when he was a child.</desc>
         <icon src="https://images.pluto.tv/series/6365235cbc198f001335d05d/tile_1784747522049.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f4f5de1c100100075665ef" start="20261030025100 +0000" stop="20261030060000 +0000">
+    <programme channel="62f4f5de1c100100075665ef" start="20261030025100 +0000" stop="20261030034100 +0000">
+        <title>NCIS</title>
+        <desc>While the team investigates a biker killed in a hit and run, Gibbs prepares to testify against a financial advisor who stole millions from his Navy clients.</desc>
+        <icon src="https://images.pluto.tv/series/6365235cbc198f001335d05d/tile_1784747522049.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f5de1c100100075665ef" start="20261030034100 +0000" stop="20261030060000 +0000">
         <title>NCIS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53379,7 +53474,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A traveller with a third leg shows officers his party trick. Officers add a new charge to a woman's lengthy rap sheet. A hair-raising package from Malaysia is found. Chocolate bars contain a special ingredient.</desc>
         <icon src="https://images.pluto.tv/series/6373bbb87e251a001387fb4a/tile_1786652282730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62fb9c4539183b00076a3875" start="20261030022100 +0000" stop="20261030060000 +0000">
+    <programme channel="62fb9c4539183b00076a3875" start="20261030022100 +0000" stop="20261030024900 +0000">
+        <title>Border Security CA</title>
+        <desc>The marine team examines a gun-carrying pleasure boat. A truck full of plastic may have been tampered with. An unwise relationship could cause heartache for a would-be tourist.</desc>
+        <icon src="https://images.pluto.tv/series/6373bbb87e251a001387fb4a/tile_1786652282730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62fb9c4539183b00076a3875" start="20261030024900 +0000" stop="20261030031700 +0000">
+        <title>Border Security CA</title>
+        <desc>A currency dog sniffs out thousands in undeclared cash. An aspiring actor has trouble keeping track of the plot. Unusual body art may not be what it seems.</desc>
+        <icon src="https://images.pluto.tv/series/6373bbb87e251a001387fb4a/tile_1786652282730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62fb9c4539183b00076a3875" start="20261030031700 +0000" stop="20261030060000 +0000">
         <title>Busted at the Border</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53389,7 +53494,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When Nick Colette, the hot-headed son of "retired" mobster Tommy Colette, joins forces with his father, Eastbridge's crime troubles start.</desc>
         <icon src="https://images.pluto.tv/series/62e2eb527abcdc0013a0da12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="630f1e6073bd1800082107f0" start="20261030024500 +0000" stop="20261030060000 +0000">
+    <programme channel="630f1e6073bd1800082107f0" start="20261030024500 +0000" stop="20261030034200 +0000">
+        <title>The Commish</title>
+        <desc>Following the death of his gangster son in a police shootout, mobster Tommy Colette vows to kill Tony Scali himself.</desc>
+        <icon src="https://images.pluto.tv/series/62e2eb527abcdc0013a0da12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="630f1e6073bd1800082107f0" start="20261030034200 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Retro Crime Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53399,7 +53509,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>A protégé of Walker's is a kickboxing champion who is being pressured by a former champion who lost the title due to steroids. The previous champion tries to plant drugs on Walker's friend and then tries murder.</desc>
         <icon src="https://images.pluto.tv/series/62d6fd3fbcc69800132c6a7b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="635659445b4c4700076d2ad1" start="20261030024500 +0000" stop="20261030060000 +0000">
+    <programme channel="635659445b4c4700076d2ad1" start="20261030024500 +0000" stop="20261030033400 +0000">
+        <title>Walker, Texas Ranger</title>
+        <desc>A Texas Ranger is killed in the line-of-duty. Two officers apply for the open position. Both are almost equally skilled. One candidate is being hunted by her violent ex-husband, and she thinks about dropping out of the application process.</desc>
+        <icon src="https://images.pluto.tv/series/62d6fd3fbcc69800132c6a7b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="635659445b4c4700076d2ad1" start="20261030033400 +0000" stop="20261030060000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53409,7 +53524,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Ricky is opening a new night spot, the Club Babalu, and wants Bob Hope to appear at the grand opening. Lucy fears Hope won't because of her widespread reputation for causing chaos, and wants to reassure him that this time she's butting out.</desc>
         <icon src="https://images.pluto.tv/series/63e4f2885957f2001357addd/tile_1792175045878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63a2f1dda0d69700078b7cba" start="20261030021000 +0000" stop="20261030060000 +0000">
+    <programme channel="63a2f1dda0d69700078b7cba" start="20261030021000 +0000" stop="20261030024100 +0000">
+        <title>I Love Lucy</title>
+        <desc>Although they both agree not to try and influence Little Ricky's future, Lucy buys a toy doctor kit and Ricky gives him a drum set. Their son takes to the drums and begins to play it non-stop for days.</desc>
+        <icon src="https://images.pluto.tv/series/63e4f2885957f2001357addd/tile_1792175045878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63a2f1dda0d69700078b7cba" start="20261030024100 +0000" stop="20261030031200 +0000">
+        <title>I Love Lucy</title>
+        <desc>Orson Welles is scheduled to perform for a benefit in Ricky's club. Ricky is worried that Lucy will foul things up if she is around so he decides to send her off to Florida.</desc>
+        <icon src="https://images.pluto.tv/series/63e4f2885957f2001357addd/tile_1792175045878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63a2f1dda0d69700078b7cba" start="20261030031200 +0000" stop="20261030060000 +0000">
         <title>I Love Lucy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53419,7 +53544,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When Matlock and his daughter Leanne arrive at a seaside resort to plan their new law partnership, they discover the manager has been murdered.</desc>
         <icon src="https://images.pluto.tv/series/62e2cba6d7fb2b001385ef4d/tile_1792426786611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63da365f60bc8f0008a50f44" start="20261030025300 +0000" stop="20261030060000 +0000">
+    <programme channel="63da365f60bc8f0008a50f44" start="20261030025300 +0000" stop="20261030035000 +0000">
+        <title>Matlock</title>
+        <desc>While vacationing with his daughter, Matlock tries to solve the murder of the hotel manager at their seaside resort.</desc>
+        <icon src="https://images.pluto.tv/series/62e2cba6d7fb2b001385ef4d/tile_1792426786611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63da365f60bc8f0008a50f44" start="20261030035000 +0000" stop="20261030060000 +0000">
         <title>Matlock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53429,7 +53559,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>A wandering Siamese kitten gives Perry Mason a vital clue in the murder of a blackmailer and the discovery of a long-hidden slaying.</desc>
         <icon src="https://images.pluto.tv/series/62d1bc9e5c70310013cce226/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63e20bd160bc8f0008b4c949" start="20261030021900 +0000" stop="20261030060000 +0000">
+    <programme channel="63e20bd160bc8f0008b4c949" start="20261030021900 +0000" stop="20261030031900 +0000">
+        <title>Perry Mason</title>
+        <desc>Perry Mason defends an ex-policeman accused of murdering a crime syndicate leader.</desc>
+        <icon src="https://images.pluto.tv/series/62d1bc9e5c70310013cce226/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63e20bd160bc8f0008b4c949" start="20261030031900 +0000" stop="20261030060000 +0000">
         <title>Perry Mason</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53439,7 +53574,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Gil Favor proves that a trail boss stands up for his profession even if it means his herd is beaten to market by a competitor.</desc>
         <icon src="https://images.pluto.tv/series/65e9d940ea323e0013d016d8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65660223635c3c00086c2578" start="20261030021500 +0000" stop="20261030060000 +0000">
+    <programme channel="65660223635c3c00086c2578" start="20261030021500 +0000" stop="20261030031600 +0000">
+        <title>Rawhide</title>
+        <desc>A wild bull causes the death of a drover and threatens to stampede Gil Favor's herd.</desc>
+        <icon src="https://images.pluto.tv/series/65e9d940ea323e0013d016d8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65660223635c3c00086c2578" start="20261030031600 +0000" stop="20261030060000 +0000">
         <title>Rawhide</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65660223635c3c00086c2578/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53449,7 +53589,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Don Johnson is Nash Bridges, a San Francisco police investigator who deserves his reputation as the city’s top cop. Nash relies on his instincts, a keen sense of humor and a lot of charm to work his magic on the streets of San Francisco.</desc>
         <icon src="https://images.pluto.tv/series/66c46b65489bab0008afe083/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="666021cccb3ea10008406866" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="666021cccb3ea10008406866" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Nash Bridges</title>
+        <desc>Don Johnson is Nash Bridges, a San Francisco police investigator who deserves his reputation as the city’s top cop. Nash relies on his instincts, a keen sense of humor and a lot of charm to work his magic on the streets of San Francisco.</desc>
+        <icon src="https://images.pluto.tv/series/66c46b65489bab0008afe083/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666021cccb3ea10008406866" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Nash Bridges</title>
+        <desc>Don Johnson is Nash Bridges, a San Francisco police investigator who deserves his reputation as the city’s top cop. Nash relies on his instincts, a keen sense of humor and a lot of charm to work his magic on the streets of San Francisco.</desc>
+        <icon src="https://images.pluto.tv/series/66c46b65489bab0008afe083/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666021cccb3ea10008406866" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Nash Bridges</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/666021cccb3ea10008406866/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53459,7 +53609,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>A Navy judge stands accused of vehicular homicide. Mac and Sturgis prosecute; Harm defends. Harm discovers the real cause of the wreck. Webb continues to pursue a terrorist, and Loren continues to promote trouble between Bud and Harriet.</desc>
         <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a105f4a79dea0008aa5e0f" start="20261030022800 +0000" stop="20261030060000 +0000">
+    <programme channel="66a105f4a79dea0008aa5e0f" start="20261030022800 +0000" stop="20261030032000 +0000">
+        <title>JAG</title>
+        <desc>The clock is ticking down with every minute vital as the JAG team take the lead on the terrorist case.</desc>
+        <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a105f4a79dea0008aa5e0f" start="20261030032000 +0000" stop="20261030060000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53469,7 +53624,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When a petty officer is found dead with an apparent suicide note, the NCIS team must investigate the mystery surrounding his death; Callen and Anna begin wedding planning; Sam has a heart-to-heart with his daughter.</desc>
         <icon src="https://images.pluto.tv/series/636516ae36d64a001455669c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a106c8a79dea0008aa5ef3" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="66a106c8a79dea0008aa5ef3" start="20261030023000 +0000" stop="20261030032100 +0000">
+        <title>NCIS: Los Angeles</title>
+        <desc>Sam Hanna must go under cover as a fighter to catch the leader of a gang dealing drugs on the streets.</desc>
+        <icon src="https://images.pluto.tv/series/636516ae36d64a001455669c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a106c8a79dea0008aa5ef3" start="20261030032100 +0000" stop="20261030060000 +0000">
         <title>NCIS: Los Angeles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53489,7 +53649,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Jack Benny talks about his NBC special and Rick Little impersonates celebrities. Plus, Johnny takes on gas rationing in his monologue.</desc>
         <icon src="https://images.pluto.tv/series/68b9c6f8a64d66fd0b815e6b/tile_1779001252151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d25c623175a2780d051d3a" start="20261030022400 +0000" stop="20261030060000 +0000">
+    <programme channel="68d25c623175a2780d051d3a" start="20261030022400 +0000" stop="20261030025100 +0000">
+        <title>The Carol Burnett Show</title>
+        <desc>Tonight, guest stars Steve Lawrence and Sally Struthers join in one of Carol's patented "Late, Late Movie" spoofs. This time up, flappers and floozies abound in "The Boring Twenties."</desc>
+        <icon src="https://images.pluto.tv/series/630f73f437c5800013b55e05/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d25c623175a2780d051d3a" start="20261030025100 +0000" stop="20261030033900 +0000">
+        <title>Johnny Carson</title>
+        <desc>Comedian Robert Klein regales Johnny with stories about growing up in the Bronx and kosher foods.  Also on this episode is Kevin Spacey</desc>
+        <icon src="https://images.pluto.tv/series/68b9c6f8a64d66fd0b815e6b/tile_1779001252151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d25c623175a2780d051d3a" start="20261030033900 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Classic TV Variety</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d25c623175a2780d051d3a/featuredImage_1758809678012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53499,7 +53669,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The team races to stop an active serial killer after three women are found weighted down at the bottom of a lake, and Jubal looks into an old closed case after there are multiple similarities to the recent victims.</desc>
         <icon src="https://images.pluto.tv/series/6377e019bf094b0013673a9b/tile_1786648322445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="693adae77f21340ef9746f56" start="20261030022400 +0000" stop="20261030060000 +0000">
+    <programme channel="693adae77f21340ef9746f56" start="20261030022400 +0000" stop="20261030031500 +0000">
+        <title>FBI CA</title>
+        <desc>When the leader of a drug cartel and one of the world's most wanted men, Antonio Vargas, is apprehended by the team, the entire FBI headquarters is put at risk when his henchmen unveil a terroristic threat to free him.</desc>
+        <icon src="https://images.pluto.tv/series/6377e019bf094b0013673a9b/tile_1786648322445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="693adae77f21340ef9746f56" start="20261030031500 +0000" stop="20261030060000 +0000">
         <title>Pluto TV FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/693adae77f21340ef9746f56/featuredImage_1767879898099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53509,7 +53684,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When Detective Tibbs investigates Chief Gillespie's kidnapping, all the signs seem to point to a racially motivated crime, but Virgil and officer Bubba Skinner are convinced that acting Chief Tom Dugan may somehow be involved.</desc>
         <icon src="https://images.pluto.tv/series/69653970b80a4827e03104b6/tile_1785864514104.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e61287d2afdec4ff2cb75" start="20261030023700 +0000" stop="20261030060000 +0000">
+    <programme channel="696e61287d2afdec4ff2cb75" start="20261030023700 +0000" stop="20261030033400 +0000">
+        <title>In the Heat of the Night</title>
+        <desc>When Althea Tibbs is raped by a fellow teacher, the Sparta police find it difficult to get a conviction because the man's loyal wife has given him an alibi. Virgil desperately wants to avenge Althea's assault and is forced to a near-breaking point.</desc>
+        <icon src="https://images.pluto.tv/series/69653970b80a4827e03104b6/tile_1785864514104.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e61287d2afdec4ff2cb75" start="20261030033400 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Classic TV Crime Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/featuredImage_1768842232781.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53519,7 +53699,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Ben's friend, Don Miguel, visits the Ponderosa with his two daughters, Margarita and Elena, and Elena's two very anxious suitors.  Their mission? They're on their way to California to meet Margarita's suitor, Don Luis.</desc>
         <icon src="https://images.pluto.tv/series/630d04c7bc1f16001327dee7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e647b07ea70192d49f6a5" start="20261030022700 +0000" stop="20261030060000 +0000">
+    <programme channel="696e647b07ea70192d49f6a5" start="20261030022700 +0000" stop="20261030032700 +0000">
+        <title>Bonanza</title>
+        <desc>Kellie Conrad dances and her father plays the fiddle to earn a living.  Hoss feels a sense of guilt after he unintentionally hurts the arm that Kellie's father uses to play the fiddle, in a saloon fight with some roughnecks.</desc>
+        <icon src="https://images.pluto.tv/series/630d04c7bc1f16001327dee7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e647b07ea70192d49f6a5" start="20261030032700 +0000" stop="20261030060000 +0000">
         <title>Bonanza</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/featuredImage_1768842647658.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53529,7 +53714,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>McGarrett's investigation into the death of a real estate agent leads to the island of Maui.</desc>
         <icon src="https://images.pluto.tv/series/62d6fa1c1f73f60013642218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69aee8a1acb7eb0bb68df641" start="20261030021530 +0000" stop="20261030060000 +0000">
+    <programme channel="69aee8a1acb7eb0bb68df641" start="20261030021530 +0000" stop="20261030031630 +0000">
+        <title>Hawaii Five-0</title>
+        <desc>A prisoner is broken out of prison by a wealthy gangster so he can mastermind a $10 million robbery of the Honolulu Diamond Exchange.</desc>
+        <icon src="https://images.pluto.tv/series/62d6fa1c1f73f60013642218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aee8a1acb7eb0bb68df641" start="20261030031630 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Retro Crime Action</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/featuredImage_1774899454178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53539,7 +53729,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>These are the inside stories behind New Zealand’s most shocking murders and the hunt for those responsible.</desc>
         <icon src="https://images.pluto.tv/series/6a1d673bb1a87d7ce7a048f0/tile_1780311868194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69dd5d9dceddf13a1a7e39c2" start="20261030024758 +0000" stop="20261030060000 +0000">
+    <programme channel="69dd5d9dceddf13a1a7e39c2" start="20261030024758 +0000" stop="20261030034921 +0000">
+        <title>Killer Doctor: The Harold Shipman Case</title>
+        <desc>Harold Shipman was a Manchester, U.K., M.D. Murdering over 200 victims earned him the title of "Doctor Death."</desc>
+        <icon src="https://images.pluto.tv/series/6a230b8fee864509208a9cba/tile_1780681615975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69dd5d9dceddf13a1a7e39c2" start="20261030034921 +0000" stop="20261030060000 +0000">
         <title>True Crime Now</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69dd5d9dceddf13a1a7e39c2/featuredImage_1778684753213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53549,7 +53744,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Agents West and Gordon Again tangle with pint-sized Dr. Loveless, who has another king-sized plan to achieve world conquest.</desc>
         <icon src="https://images.pluto.tv/series/6a590d5ef672c3d2df7d40a9/tile_1784221023271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56add5f7dc4ada892d374b" start="20261030025100 +0000" stop="20261030060000 +0000">
+    <programme channel="6a56add5f7dc4ada892d374b" start="20261030025100 +0000" stop="20261030035100 +0000">
+        <title>The Wild Wild West</title>
+        <desc>Agents West and Gordon fear an attempt on President Grant's life while they are escorting him to a San Francisco conference.</desc>
+        <icon src="https://images.pluto.tv/series/6a590d5ef672c3d2df7d40a9/tile_1784221023271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56add5f7dc4ada892d374b" start="20261030035100 +0000" stop="20261030060000 +0000">
         <title>The Wild Wild West</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/featuredImage_1784069781833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53559,7 +53759,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Assassins stalk Delta.</desc>
         <icon src="https://images.pluto.tv/series/69491e1f287ec44e14f20157/tile_1766399542931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdad934d73d50007a82472" start="20261030021800 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdad934d73d50007a82472" start="20261030021800 +0000" stop="20261030024700 +0000">
+        <title>Doctor Who</title>
+        <desc>The Doctor aids alien Delta.</desc>
+        <icon src="https://images.pluto.tv/series/69491e1f287ec44e14f20157/tile_1766399542931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdad934d73d50007a82472" start="20261030024700 +0000" stop="20261030031500 +0000">
+        <title>Classic Doctor Who</title>
+        <desc>A newly regenerated Doctor is taken to the Rani's base by Urak the Tetrap.</desc>
+        <icon src="https://images.pluto.tv/series/69491dff287ec44e14f16482/tile_1793236039078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdad934d73d50007a82472" start="20261030031500 +0000" stop="20261030060000 +0000">
         <title>Doctor Who Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdad934d73d50007a82472/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53569,7 +53779,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The beach descends into chaos when DJ Larry "Loomin" Large announces a beach wide treasure hunt for a gold pirate doubloon worth $100,000. The Baywatch team is put on high alert when thousands of reckless treasure hunters storm the beach.</desc>
         <icon src="https://images.pluto.tv/series/630cff3c37c5800013b35029/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdae69a47b6c00076af298" start="20261030023600 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdae69a47b6c00076af298" start="20261030023600 +0000" stop="20261030032700 +0000">
+        <title>Baywatch</title>
+        <desc>When the hot Santa Ana winds move in from the desert, things start heating up on the Baywatch beach in more ways than one, as it seems like all the “weirdos” in the world have been blown to the beach.</desc>
+        <icon src="https://images.pluto.tv/series/630cff3c37c5800013b35029/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdae69a47b6c00076af298" start="20261030032700 +0000" stop="20261030060000 +0000">
         <title>Baywatch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53579,7 +53794,22 @@ his integrity and his relationship with Colt.</desc>
         <desc>Alex's double life is finally bringing in the cash she wants but hiding everything from everyone is taking a toll on her schoolwork and her connection with Paige.</desc>
         <icon src="https://images.pluto.tv/series/632b3a1b9d9b7c00133b224f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdaf3470f09a000714a2f6" start="20261030020300 +0000" stop="20261030060000 +0000">
+    <programme channel="62bdaf3470f09a000714a2f6" start="20261030020300 +0000" stop="20261030023000 +0000">
+        <title>Degrassi: The Next Generation</title>
+        <desc>The corridors of Degrassi have become a pressure cooker. With an unexpected influx of students from Lakehurst, Degrassi students find themselves facing old enemies and new friends.</desc>
+        <icon src="https://images.pluto.tv/series/632b3a1b9d9b7c00133b224f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdaf3470f09a000714a2f6" start="20261030023000 +0000" stop="20261030025700 +0000">
+        <title>Degrassi: The Next Generation</title>
+        <desc>Abstinence-pledged Darcy wakes up in a strange bed, screamingly hung-over. Panic-stricken, she tries to piece together the events of the night before. She knows – physically – she had sex, but everything else is a blank.</desc>
+        <icon src="https://images.pluto.tv/series/632b3a1b9d9b7c00133b224f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdaf3470f09a000714a2f6" start="20261030025700 +0000" stop="20261030032400 +0000">
+        <title>Degrassi: The Next Generation</title>
+        <desc>Paige is ecstatic to have landed herself a gig in the fashion world. If everything goes well, this could turn itself into a brand new career path.</desc>
+        <icon src="https://images.pluto.tv/series/632b3a1b9d9b7c00133b224f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdaf3470f09a000714a2f6" start="20261030032400 +0000" stop="20261030060000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53589,7 +53819,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>On the day of their wedding, Louisa's bridesmaid is hit in the eye with a party popper. Meanwhile, the local florist gets arrested and his shop is shuttered.</desc>
         <icon src="https://images.pluto.tv/series/62e2ec51be1ffb0014099c1a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e922f6675f71000736db3b" start="20261030022800 +0000" stop="20261030060000 +0000">
+    <programme channel="62e922f6675f71000736db3b" start="20261030022800 +0000" stop="20261030032200 +0000">
+        <title>Doc Martin</title>
+        <desc>Life in the beautiful Cornish village of Portwenn has become ever more infuriating for Dr. Martin Ellingham since his and Louisa's heart-wrenching decision to call off their wedding.</desc>
+        <icon src="https://images.pluto.tv/series/62e2ec51be1ffb0014099c1a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e922f6675f71000736db3b" start="20261030032200 +0000" stop="20261030060000 +0000">
         <title>Doc Martin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e922f6675f71000736db3b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53599,7 +53834,22 @@ his integrity and his relationship with Colt.</desc>
         <desc>While the rest of the Straw Hats continue to fight bravely, Luffy tries to find a way to save the island, and the horrible truth about Hordy's hatred for humans is finally revealed!</desc>
         <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e94ec74823db0007277a8f" start="20261030020100 +0000" stop="20261030060000 +0000">
+    <programme channel="62e94ec74823db0007277a8f" start="20261030020100 +0000" stop="20261030023000 +0000">
+        <title>One Piece</title>
+        <desc>Hordy's twisted past takes center stage in a Fish-Man flashback. Meanwhile, Shirahoshi's brother begs Luffy to save his beloved homeland and wipe out the anti-human element!</desc>
+        <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e94ec74823db0007277a8f" start="20261030023000 +0000" stop="20261030025900 +0000">
+        <title>One Piece</title>
+        <desc>Luffy's fist of fire puts Hordy down for the count, and the rest of the Straw Hats try to make short work of the remaining Fish-Man Pirates. Meanwhile, a very big boat looms overhead!</desc>
+        <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e94ec74823db0007277a8f" start="20261030025900 +0000" stop="20261030032800 +0000">
+        <title>One Piece</title>
+        <desc>While the rest of the Straw Hats try to make short work of their enemies, Luffy summons the strength for one last brutal attack on Hordy. Now, about that giant boat…</desc>
+        <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e94ec74823db0007277a8f" start="20261030032800 +0000" stop="20261030060000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53609,7 +53859,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Sam reluctantly lets Linda move into his house for Nick’s sake, but in the end Nick needs his mother to move out- and move on for all of them.</desc>
         <icon src="https://images.pluto.tv/series/647f76f0a7ef77001ae8d0f6/tile_1790721365976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62fb9ade112ca70007d8441d" start="20261030023100 +0000" stop="20261030060000 +0000">
+    <programme channel="62fb9ade112ca70007d8441d" start="20261030023100 +0000" stop="20261030032100 +0000">
+        <title>Good Witch</title>
+        <desc>Cassie can sense something isn’t quite right with her new Grey House guest, Alexis. While boasting about her father’s wealth Alexis runs up considerable tabs all over town.</desc>
+        <icon src="https://images.pluto.tv/series/647f76f0a7ef77001ae8d0f6/tile_1790721365976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62fb9ade112ca70007d8441d" start="20261030032100 +0000" stop="20261030060000 +0000">
         <title>Nonstop Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53619,7 +53874,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Mike and Frank visit a hangar-sized barn full of treasures; a circus property turned animal preserve; the guys spot a zebra-striped vintage motorbike in a yard.</desc>
         <icon src="https://images.pluto.tv/series/66a0bbc49322c00013c2b403/tile_1762470307809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6408ae8f9b39550008caf94f" start="20261030022100 +0000" stop="20261030060000 +0000">
+    <programme channel="6408ae8f9b39550008caf94f" start="20261030022100 +0000" stop="20261030031500 +0000">
+        <title>American Pickers</title>
+        <desc>Mike and Frank explore a stash of ultra-rare motorcycle parts found behind a secret wall, then they find the ultimate aviation collectible -- a propeller linked to Charles Lindbergh.</desc>
+        <icon src="https://images.pluto.tv/series/66a0bbc49322c00013c2b403/tile_1762470307809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408ae8f9b39550008caf94f" start="20261030031500 +0000" stop="20261030060000 +0000">
         <title>American Pickers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53629,7 +53889,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Shelby gets his jet boat back, and it now has a new engine that will help him get the job done; Rygaard is still struggling and Gabe is forced to promote his inexperienced crew, which could mean disaster.</desc>
         <icon src="https://images.pluto.tv/series/65e1ae9b5c25f6001340db16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20261030021700 +0000" stop="20261030060000 +0000">
+    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20261030021700 +0000" stop="20261030030800 +0000">
+        <title>Ax Men</title>
+        <desc>The battle for King of the Mountain roars on; the Rygaard crew has an issue with getting the wood to the mill; Papac has to negotiate a dangerous unpredictable downhill site and Mother Nature isn't helping make it any easier.</desc>
+        <icon src="https://images.pluto.tv/series/65e1ae9b5c25f6001340db16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20261030030800 +0000" stop="20261030060000 +0000">
         <title>Ax Men</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fe4bbdf3cf0008aa2cdd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53639,7 +53904,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Willie and Jase compete against each other to become president of their neighborhood homeowner association; Jep, Jess and Miss Kay work on a Duck Commander-themed display for the local zoo.</desc>
         <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fe6fbfbaec0008a583ae" start="20261030021100 +0000" stop="20261030060000 +0000">
+    <programme channel="6540fe6fbfbaec0008a583ae" start="20261030021100 +0000" stop="20261030023800 +0000">
+        <title>Duck Dynasty</title>
+        <desc>The guys have fun with a 3-D printer until they come to the realization that the machine could soon replace their jobs; Si invests in John Luke's snow cone stand after Willie doesn't give him a raise.</desc>
+        <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540fe6fbfbaec0008a583ae" start="20261030023800 +0000" stop="20261030030500 +0000">
+        <title>Duck Dynasty</title>
+        <desc>Jase, Jep, Si and Cole battle a growing population of cottonmouth snakes on Phil's property; Willie uses his business expertise to help Rebecca improve her clothing store.</desc>
+        <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540fe6fbfbaec0008a583ae" start="20261030030500 +0000" stop="20261030060000 +0000">
         <title>Duck Dynasty</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fe6fbfbaec0008a583ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53649,7 +53924,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The season comes to a close with nationals and the girls feel the pressure to remain undefeated; Abby opens her new studio the day before a competition, leaving the girls with little time to prepare; tension spirals out of control.</desc>
         <icon src="https://images.pluto.tv/series/66db0b25d404600013bae477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fec1770cf1000866b65b" start="20261030021800 +0000" stop="20261030060000 +0000">
+    <programme channel="6540fec1770cf1000866b65b" start="20261030021800 +0000" stop="20261030030800 +0000">
+        <title>Dance Moms</title>
+        <desc>The girls answer fans' questions, covering topics including boyfriends, rivalries and Abby; clips of the girls' favorite dances over the years.</desc>
+        <icon src="https://images.pluto.tv/series/66db0b25d404600013bae477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540fec1770cf1000866b65b" start="20261030030800 +0000" stop="20261030060000 +0000">
         <title>Dance Moms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fec1770cf1000866b65b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53659,7 +53939,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Dog continues his legal battle to fight extradition to Mexico in connection with his 2003 capture of fugitive rapist Andrew Luster and questions whether he has the desire to bounty-hunt again.</desc>
         <icon src="https://images.pluto.tv/series/65f1729d16305f001384040c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fee72cf13100085d5a18" start="20261030021500 +0000" stop="20261030060000 +0000">
+    <programme channel="6540fee72cf13100085d5a18" start="20261030021500 +0000" stop="20261030030800 +0000">
+        <title>Dog the Bounty Hunter</title>
+        <desc>Dog and his posse scheme to catch an alleged drug dealer with a big bond by using a fellow fugitive as bait.</desc>
+        <icon src="https://images.pluto.tv/series/65f1729d16305f001384040c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540fee72cf13100085d5a18" start="20261030030800 +0000" stop="20261030060000 +0000">
         <title>Dog The Bounty Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/featuredImage_1778003945126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53669,7 +53954,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>In Dunwoody, Georgia, Jon Taffer tries to help a former hospitality professional regain his passion for the industry and save his flailing bar.</desc>
         <icon src="https://images.pluto.tv/series/655f5978c347d5001380a891/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f2ee6c0fc88000877d26c" start="20261030023800 +0000" stop="20261030060000 +0000">
+    <programme channel="655f2ee6c0fc88000877d26c" start="20261030023800 +0000" stop="20261030032800 +0000">
+        <title>Bar Rescue</title>
+        <desc>In the heart of Atlanta, Jon helps an owner seize her second chance in life by saving her struggling bar and managing her staff.</desc>
+        <icon src="https://images.pluto.tv/series/655f5978c347d5001380a891/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f2ee6c0fc88000877d26c" start="20261030032800 +0000" stop="20261030060000 +0000">
         <title>Bar Rescue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53679,7 +53969,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Steven Tyler guest stars as himself in the fourth season premiere of \\"Nashville\\".</desc>
         <icon src="https://images.pluto.tv/series/6616dd780fb7c10013abe5ce/tile_1778862962818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8d7428730900087c5907" start="20261030024400 +0000" stop="20261030060000 +0000">
+    <programme channel="65cf8d7428730900087c5907" start="20261030024400 +0000" stop="20261030033500 +0000">
+        <title>Nashville</title>
+        <desc>Rayna is determined to prove Highway 65 is a credible label, while Juliette continues to struggle with postpartum depression.</desc>
+        <icon src="https://images.pluto.tv/series/6616dd780fb7c10013abe5ce/tile_1778862962818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8d7428730900087c5907" start="20261030033500 +0000" stop="20261030060000 +0000">
         <title>Nashville</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf8d7428730900087c5907/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53689,7 +53984,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>A wealthy woman disappears from her upscale Ohio retirement village; days later, her body is found in the trunk of her abandoned car.</desc>
         <icon src="https://images.pluto.tv/series/66dac4d722dfe900133d949c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6601948129adfd0008a1c0ba" start="20261030021800 +0000" stop="20261030060000 +0000">
+    <programme channel="6601948129adfd0008a1c0ba" start="20261030021800 +0000" stop="20261030031100 +0000">
+        <title>Secrets of the Morgue</title>
+        <desc>The burned remains of two people are discovered in an Ohio basement; investigators are able to identify the victims and discover a crowbar that might lead them to the psychopath.</desc>
+        <icon src="https://images.pluto.tv/series/66dac4d722dfe900133d949c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6601948129adfd0008a1c0ba" start="20261030031100 +0000" stop="20261030060000 +0000">
         <title>Crime &amp; Justice</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53699,7 +53999,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The Red Sun derails Clarke's plans.</desc>
         <icon src="https://images.pluto.tv/series/6abbc19a7102b85b82e93d57/tile_1790689691046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66166cb1307fa30008f275e7" start="20261030024332 +0000" stop="20261030060000 +0000">
+    <programme channel="66166cb1307fa30008f275e7" start="20261030024332 +0000" stop="20261030033332 +0000">
+        <title>The 100</title>
+        <desc>Clarke and her friends reckon with all that has happened, only to find a new unexpected threat looming. Recurring guest star JESSICA HARMON directs.</desc>
+        <icon src="https://images.pluto.tv/series/6abbc19a7102b85b82e93d57/tile_1790689691046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66166cb1307fa30008f275e7" start="20261030033332 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Sci-fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53709,7 +54014,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Police discover the private graveyard of a mass murderer who killed more than 100 people.</desc>
         <icon src="https://images.pluto.tv/series/67854025d2311cd3138e09e6/tile_1751753411923.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6703a96763292d000836b4fa" start="20261030023500 +0000" stop="20261030060000 +0000">
+    <programme channel="6703a96763292d000836b4fa" start="20261030023500 +0000" stop="20261030032800 +0000">
+        <title>Born to Kill?</title>
+        <desc>In 1989, Allan Legere brutally ended the lives of four defenseless residents in his home community of the Miramichi, New Brunswick.</desc>
+        <icon src="https://images.pluto.tv/series/67854025d2311cd3138e09e6/tile_1751753411923.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6703a96763292d000836b4fa" start="20261030032800 +0000" stop="20261030060000 +0000">
         <title>Crime Up Close</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6703a96763292d000836b4fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53719,7 +54029,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Amy and Ty postpone announcing their news after the fire at Lou and Peter's home.</desc>
         <icon src="https://images.pluto.tv/series/67a5d31b3d4e117043d7847b/tile_1761592360008.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6729d651c7626f0008b5dacf" start="20261030022100 +0000" stop="20261030060000 +0000">
+    <programme channel="6729d651c7626f0008b5dacf" start="20261030022100 +0000" stop="20261030040400 +0000">
+        <title>Love on Your Doorstep</title>
+        <desc>A talented TV host show profiles a local florist with a groundbreaking same-day-delivery florist service and a long-running flower competition for a chance to land her own show.</desc>
+        <icon src="https://images.pluto.tv/series/697f6be951ef20e5554b5031/tile_1769958378437.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6729d651c7626f0008b5dacf" start="20261030040400 +0000" stop="20261030060000 +0000">
         <title>Super Channel Hearties</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/featuredImage_1785520945293.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53729,7 +54044,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Snake-bite expert Dr Sean Bush faces his own nightmare when his wife calls to tell him a venomous rattlesnake has just bitten their two-year-old son.</desc>
         <icon src="https://images.pluto.tv/series/681a59601426f2773e6374e9/tile_1788549534831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67922858b83355184c699699" start="20261030024000 +0000" stop="20261030060000 +0000">
+    <programme channel="67922858b83355184c699699" start="20261030024000 +0000" stop="20261030033100 +0000">
+        <title>Untold Stories of the E.R.</title>
+        <desc>When a four-pound steel hook impales the skull of construction worker Gail Creek, trauma surgeon Joe Eric Johnston has the impossible task of keeping the man alive.</desc>
+        <icon src="https://images.pluto.tv/series/681a59601426f2773e6374e9/tile_1788549534831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67922858b83355184c699699" start="20261030033100 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67922858b83355184c699699/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53739,7 +54059,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Dylan finds himself trapped after an explosion sends him into an inter-dimensional loop.</desc>
         <icon src="https://images.pluto.tv/series/65085ef4020c540013394d7a/tile_1790721022712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6850335b5965a2fd49f7e36d" start="20261030023200 +0000" stop="20261030060000 +0000">
+    <programme channel="6850335b5965a2fd49f7e36d" start="20261030023200 +0000" stop="20261030032300 +0000">
+        <title>Andromeda</title>
+        <desc>Rommie turns on the crew after she is rebuilt to help evacuate Seefra’s planets.</desc>
+        <icon src="https://images.pluto.tv/series/65085ef4020c540013394d7a/tile_1790721022712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6850335b5965a2fd49f7e36d" start="20261030032300 +0000" stop="20261030060000 +0000">
         <title>Andromeda</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/featuredImage_1753258982071.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53749,7 +54074,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>After recovering from a near-fatal head injury, a woman realizes her body is being taken over by a second brain the remnants of a Siamese twin that was absorbed into her body.</desc>
         <icon src="https://images.pluto.tv/series/69300b4563142c96a934e80a/tile_1764756294667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6874ad743ffa5e0c917f6e20" start="20261030020200 +0000" stop="20261030060000 +0000">
+    <programme channel="6874ad743ffa5e0c917f6e20" start="20261030020200 +0000" stop="20261030025800 +0000">
+        <title>The Outer Limits</title>
+        <desc>An intelligent military android makes a bid for freedom, guided from beyond the grave by its pacifist inventor.</desc>
+        <icon src="https://images.pluto.tv/series/69300b4563142c96a934e80a/tile_1764756294667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad743ffa5e0c917f6e20" start="20261030025800 +0000" stop="20261030035500 +0000">
+        <title>The Outer Limits</title>
+        <desc>A mysterious woman visits a presidential candidate on his plane, saying she has come from the future to save his life.</desc>
+        <icon src="https://images.pluto.tv/series/69300b4563142c96a934e80a/tile_1764756294667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad743ffa5e0c917f6e20" start="20261030035500 +0000" stop="20261030060000 +0000">
         <title>The Outer Limits</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/featuredImage_1756200180819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53759,7 +54094,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Jackie fakes an MRI to get a phony prescription; Coop is distraught over the end of the campaign; Eddie returns.</desc>
         <icon src="https://images.pluto.tv/series/68b1c8c0e5ae05a890368d2f/tile_1756527293508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688a44cf5d73ec0a3f49718b" start="20261030021600 +0000" stop="20261030060000 +0000">
+    <programme channel="688a44cf5d73ec0a3f49718b" start="20261030021600 +0000" stop="20261030024900 +0000">
+        <title>Nurse Jackie</title>
+        <desc>Jackie loses her stash and confesses that she took O'Hara's loan; the hospital struggles while Jackie is on vacation.</desc>
+        <icon src="https://images.pluto.tv/series/68b1c8c0e5ae05a890368d2f/tile_1756527293508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688a44cf5d73ec0a3f49718b" start="20261030024900 +0000" stop="20261030032200 +0000">
+        <title>Nurse Jackie</title>
+        <desc>After returning to work, Jackie can no longer avoid confrontations.</desc>
+        <icon src="https://images.pluto.tv/series/68b1c8c0e5ae05a890368d2f/tile_1756527293508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688a44cf5d73ec0a3f49718b" start="20261030032200 +0000" stop="20261030060000 +0000">
         <title>Weeds / Nurse Jackie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/featuredImage_1756145412704.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53769,7 +54114,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Mike tells Jionni he hooked up with Snooki, the roommates try to protect Deena, and Vinny and Pauly plan an epic prank.</desc>
         <icon src="https://images.pluto.tv/series/64dba27fa5aa6e0013b942bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20261030024700 +0000" stop="20261030060000 +0000">
+    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20261030024700 +0000" stop="20261030033600 +0000">
+        <title>Jersey Shore</title>
+        <desc>One roommate isn't amused by Pauly and Vinny's prank, Mike spreads a rumor about Deena's sister, the girls start a water balloon fight, and everyone heads home after a wild summer.</desc>
+        <icon src="https://images.pluto.tv/series/64dba27fa5aa6e0013b942bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20261030033600 +0000" stop="20261030060000 +0000">
         <title>MTV Jersey Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/featuredImage_1779087601349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53779,7 +54129,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>There is a barrier around Mt. Hakurei that purifies demons or anything evil.</desc>
         <icon src="https://images.pluto.tv/series/67dc36335c4a51b28b9b9527/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d25b620a0f3829b116bb6f" start="20261030022700 +0000" stop="20261030060000 +0000">
+    <programme channel="68d25b620a0f3829b116bb6f" start="20261030022700 +0000" stop="20261030025700 +0000">
+        <title>Inuyasha</title>
+        <desc>The battle between Bankotsu and Inuyasha begins. Meanwhile, Sesshomatu comes to Mt. Hakurei.</desc>
+        <icon src="https://images.pluto.tv/series/67dc36335c4a51b28b9b9527/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d25b620a0f3829b116bb6f" start="20261030025700 +0000" stop="20261030032700 +0000">
+        <title>Inuyasha</title>
+        <desc>There is a holy island in a lake surrounded by mist. Saint Hakushin, who become a living Buddha a hundred years ago, is venerated there.</desc>
+        <icon src="https://images.pluto.tv/series/67dc36335c4a51b28b9b9527/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d25b620a0f3829b116bb6f" start="20261030032700 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/featuredImage_1766527273560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53789,7 +54149,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Seth schemes to get some fresh cash into his internet department</desc>
         <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1790720960566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b012d1148fa1cd8a75d5c" start="20261030021100 +0000" stop="20261030060000 +0000">
+    <programme channel="691b012d1148fa1cd8a75d5c" start="20261030021100 +0000" stop="20261030023600 +0000">
+        <title>Hardcore Pawn</title>
+        <desc>Les discovers broken merchandise and calls his staff to the carpet.</desc>
+        <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1790720960566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b012d1148fa1cd8a75d5c" start="20261030023600 +0000" stop="20261030030100 +0000">
+        <title>Hardcore Pawn</title>
+        <desc>Tensions are at an all time high as Les aims to fire the next bumbling employee.</desc>
+        <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1790720960566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b012d1148fa1cd8a75d5c" start="20261030030100 +0000" stop="20261030060000 +0000">
         <title>Hardcore Pawn</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/featuredImage_1776452409517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53799,7 +54169,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Upon arriving at a new planet, M5S-224, the team discovers that they can gate back to Earth. The team sets out, with the intention of returning thanks to a new hyperdrive. But when the engines suddenly explode, the team deals with a new situation.</desc>
         <icon src="https://images.pluto.tv/series/691c84b66c0f157d0ee807fc/tile_1785782161726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="693bf37b75432d022c85ef01" start="20261030020900 +0000" stop="20261030060000 +0000">
+    <programme channel="693bf37b75432d022c85ef01" start="20261030020900 +0000" stop="20261030030000 +0000">
+        <title>Stargate Atlantis</title>
+        <desc>Sheppard and Teyla discover that a massive storm is approaching the city. The team must evacuate the city, and the Manarians offer to give them shelter. As they work to figure out a way to power up the shield, the city is invaded by the Genii.</desc>
+        <icon src="https://images.pluto.tv/series/691c84b66c0f157d0ee807fc/tile_1785782161726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="693bf37b75432d022c85ef01" start="20261030030000 +0000" stop="20261030035100 +0000">
+        <title>Stargate Atlantis</title>
+        <desc>Sheppard (Joe Flanigan) plays a dangerous game of cat and mouse as he attempts to regain control of Atlantis from the Genii, who have taken the city along with Weir (Torri Higginson) and McKay (David Hewlett) hostage.</desc>
+        <icon src="https://images.pluto.tv/series/691c84b66c0f157d0ee807fc/tile_1785782161726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="693bf37b75432d022c85ef01" start="20261030035100 +0000" stop="20261030060000 +0000">
         <title>Stargate</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/featuredImage_1765536677197.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53809,7 +54189,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Stranded near Adam's cabin, Brooke and Pierce cozy up. Adam scolds Janet for letting them go alone. Erica hits rock bottom and turns to Myrtle. Dimitri second-guesses himself as Erica spirals.</desc>
         <icon src="https://images.pluto.tv/series/69cbe9e2a71dee2e83438011/tile_1774971363684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b03041cafd86d9dc5763c3" start="20261030022000 +0000" stop="20261030060000 +0000">
+    <programme channel="69b03041cafd86d9dc5763c3" start="20261030022000 +0000" stop="20261030031100 +0000">
+        <title>All My Children</title>
+        <desc>Noah's trial for Louie Greco's death begins. Taylor's mother suspects she's lying. Adam and Janet fly to confront Brooke and Pierce. Erica battles withdrawal as Myrtle takes her to get help.</desc>
+        <icon src="https://images.pluto.tv/series/69cbe9e2a71dee2e83438011/tile_1774971363684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b03041cafd86d9dc5763c3" start="20261030031100 +0000" stop="20261030060000 +0000">
         <title>All My Children</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b03041cafd86d9dc5763c3/featuredImage_1776352106677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53819,7 +54204,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>An unexpected guest shows up at Mommy's birthday party; Traci reveals the gender of her grandbaby.</desc>
         <icon src="https://images.pluto.tv/series/6a51540a9e380800a2dca6bf/tile_1791264493921.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a205abba7b5a6c560b8ac25" start="20261030024400 +0000" stop="20261030060000 +0000">
+    <programme channel="6a205abba7b5a6c560b8ac25" start="20261030024400 +0000" stop="20261030033400 +0000">
+        <title>Braxton Family Values</title>
+        <desc>Toni finally shares she's engaged with the sisters, but it quickly escalates into sibling rivalry.</desc>
+        <icon src="https://images.pluto.tv/series/6a51540a9e380800a2dca6bf/tile_1791264493921.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a205abba7b5a6c560b8ac25" start="20261030033400 +0000" stop="20261030060000 +0000">
         <title>All Reality We TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a205abba7b5a6c560b8ac25/featuredImage_1780507192460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53829,7 +54219,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Lucy considers an offer for a job that would force her to leave Glenoak; Ruthie incorrectly assumes that her parents will pay for her tattoo removal; Margaret offers to do Mac's English assignment.</desc>
         <icon src="https://images.pluto.tv/series/6a5f9e89d8618839a6f74e48/tile_1784651402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56ae45c868f8fd9818d59a" start="20261030021020 +0000" stop="20261030060000 +0000">
+    <programme channel="6a56ae45c868f8fd9818d59a" start="20261030021020 +0000" stop="20261030030020 +0000">
+        <title>7th Heaven</title>
+        <desc>Lucy, Ruthie and Kevin think the worst when Eric is late coming home from work; with his family waiting for him, Eric finds himself in heaven, unsure if he is a permanent resident or a visitor.</desc>
+        <icon src="https://images.pluto.tv/series/6a5f9e89d8618839a6f74e48/tile_1784651402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56ae45c868f8fd9818d59a" start="20261030030020 +0000" stop="20261030060000 +0000">
         <title>7th Heaven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/featuredImage_1784070025390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53839,7 +54234,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Monica takes a job as a teacher’s aide in order to help a man who, after teaching for 20 years, feels that he has had no positive impact on his students’ lives</desc>
         <icon src="https://images.pluto.tv/series/6a5fa0757a3bd954b7b928ee/tile_1784651894193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56ae6e0cbe9fec861af567" start="20261030021100 +0000" stop="20261030060000 +0000">
+    <programme channel="6a56ae6e0cbe9fec861af567" start="20261030021100 +0000" stop="20261030030800 +0000">
+        <title>Touched By An Angel</title>
+        <desc>Posing as a research assistant, Monica tries to reunite an archaeologist, Henry Moskowitz, who has given up on his own family’s history, with his dying grandfather</desc>
+        <icon src="https://images.pluto.tv/series/6a5fa0757a3bd954b7b928ee/tile_1784651894193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56ae6e0cbe9fec861af567" start="20261030030800 +0000" stop="20261030060000 +0000">
         <title>Touched By An Angel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/featuredImage_1784070124490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53849,7 +54249,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>When three Wisconsin teenagers learn of a local legend about a nearby cemetery, they decide to see for themselves if the stories are true.</desc>
         <icon src="https://images.pluto.tv/series/6aac4e26ed186c2c85c97585/tile_1789677094987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aa2c09cf5f14c2045c7c87a" start="20261030023700 +0000" stop="20261030060000 +0000">
+    <programme channel="6aa2c09cf5f14c2045c7c87a" start="20261030023700 +0000" stop="20261030032700 +0000">
+        <title>Monsters and Mysteries in America</title>
+        <desc>Across America, vicious mutant monsters are out for revenge.</desc>
+        <icon src="https://images.pluto.tv/series/6aac4e27ed186c2c85c97802/tile_1789677098346.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c09cf5f14c2045c7c87a" start="20261030032700 +0000" stop="20261030060000 +0000">
         <title>Paranormal Chronicles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/featuredImage_1790356009727.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54389,7 +54794,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Emily Chang hits the streets of New York with Tarek Mansour, who along with Luana Lopes Lara created Kalshi, the biggest prediction market in the world.</desc>
         <icon src="https://images.pluto.tv/series/691639263fb09016da668899/tile_1763064287099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b976b93279cb000772c6f9" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="62b976b93279cb000772c6f9" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Bloomberg Primer</title>
+        <desc>Humanoid robots that use AI are going mainstream, but they're far from proven; with billions of dollars invested, can they deliver real-world value, or will they fall short of the hype?</desc>
+        <icon src="https://images.pluto.tv/series/67d0c08546d66c4aa0495e05/tile_1782943376115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b976b93279cb000772c6f9" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>Insight With Haslinda Amin</title>
+        <desc>The definitive guide for global news audiences to get the complete picture on the story of the day, through probing interviews and nuanced conversations.</desc>
+        <icon src="https://images.pluto.tv/series/671c0e213d553200130818fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b976b93279cb000772c6f9" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>Bloomberg TV+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54399,7 +54814,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Providing Canadians with the day’s top international, national, and local news stories, 24-hours a day, 365 days/week.</desc>
         <icon src="https://images.pluto.tv/series/633fe4b65aa987000723b468/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62cbef9ebb857100072fc187" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="62cbef9ebb857100072fc187" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Global News National</title>
+        <desc>Providing Canadians with the day’s top international, national, and local news stories, 24-hours a day, 365 days/week.</desc>
+        <icon src="https://images.pluto.tv/series/633fe4b65aa987000723b468/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cbef9ebb857100072fc187" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Global News National</title>
+        <desc>Providing Canadians with the day’s top international, national, and local news stories, 24-hours a day, 365 days/week.</desc>
+        <icon src="https://images.pluto.tv/series/633fe4b65aa987000723b468/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cbef9ebb857100072fc187" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Global News National</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54409,7 +54834,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
         <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62cc00b3b821cf00070f82c3" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="62cc00b3b821cf00070f82c3" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Global News Toronto</title>
+        <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+        <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cc00b3b821cf00070f82c3" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Global News Toronto</title>
+        <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+        <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cc00b3b821cf00070f82c3" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Global News Toronto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54419,7 +54854,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Un regard approfondi sur les sujets de l'heure, au pays comme à l'international, et sur les grands enjeux auxquels la société est confrontée.</desc>
         <icon src="https://images.pluto.tv/series/6a97051fb60195e27e4b3ce6/tile_1788282170930.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62cc1e1e0d0611000837dc1d" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="62cc1e1e0d0611000837dc1d" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>L'info partout au pays</title>
+        <desc>Les plus récents reportages de Radio-Canada Info.</desc>
+        <icon src="https://images.pluto.tv/series/67404f38c394bf0013b3e4e1/tile_1749646969169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cc1e1e0d0611000837dc1d" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Radio-Canada INFO</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62cc1e1e0d0611000837dc1d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54429,7 +54869,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Beat creates a cozy cabin in Germany, while Peter and Sr. win a Guinness World Record with their jaw-dropping one-of-a-kind log car, and Joel takes on a difficult build made even tougher with a rookie slinging logs.</desc>
         <icon src="https://images.pluto.tv/series/6373efc0259abd0013f37442/tile_1790721366515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62fb9844db5a4a0007ebc2a3" start="20261030021400 +0000" stop="20261030060000 +0000">
+    <programme channel="62fb9844db5a4a0007ebc2a3" start="20261030021400 +0000" stop="20261030030600 +0000">
+        <title>Timber Kings CA</title>
+        <desc>Bryan Jr. feels the heat to recreate the cozy log home a British Columbia couple lost to a fire. Meanwhile, Peter hopes for a ticket to heaven by building a covered entrway for the local church.</desc>
+        <icon src="https://images.pluto.tv/series/6373efc0259abd0013f37442/tile_1790721366515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62fb9844db5a4a0007ebc2a3" start="20261030030600 +0000" stop="20261030060000 +0000">
         <title>Beyond History</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54439,7 +54884,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
         <icon src="https://images.pluto.tv/series/695807cc262748e85886c598/tile_1784250235670.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6350fdd266e9ea0007bedec5" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6350fdd266e9ea0007bedec5" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>24/7 Primetime</title>
+        <desc>Delivering the news you need to know.</desc>
+        <icon src="https://images.pluto.tv/series/68ed5a7ca44f8dcccd702246/tile_1760479459134.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6350fdd266e9ea0007bedec5" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBS Evening News</title>
+        <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+        <icon src="https://images.pluto.tv/series/695807cc262748e85886c598/tile_1784250235670.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6350fdd266e9ea0007bedec5" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54449,7 +54904,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>The drag artists explore aspects of their inner most selves and put them all on theatrical steroids.</desc>
         <icon src="https://images.pluto.tv/series/6aab04507a9bc501c3013fb9/tile_1789592659287.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6368e15a51e9560007c592ed" start="20261030021708 +0000" stop="20261030060000 +0000">
+    <programme channel="6368e15a51e9560007c592ed" start="20261030021708 +0000" stop="20261030025011 +0000">
+        <title>Drag Heals</title>
+        <desc>Tracey asks the drag artists to share part of their story on stage in a song or lip-sync for the first time.</desc>
+        <icon src="https://images.pluto.tv/series/6aab04507a9bc501c3013fb9/tile_1789592659287.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6368e15a51e9560007c592ed" start="20261030025011 +0000" stop="20261030032117 +0000">
+        <title>Drag Heals</title>
+        <desc>Designer Lucinda Miu drops by with a challenge - to create a runway ready look using only crafting supplies.</desc>
+        <icon src="https://images.pluto.tv/series/6aab04507a9bc501c3013fb9/tile_1789592659287.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6368e15a51e9560007c592ed" start="20261030032117 +0000" stop="20261030060000 +0000">
         <title>OUTflix Proud</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6368e15a51e9560007c592ed/featuredImage_1789142547640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54459,7 +54924,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Chloe and Dan will tie the knot soon, but she’s finally ready to tell him about her real job. Then Amanda’s mom begs her to quit her job.</desc>
         <icon src="https://images.pluto.tv/series/630f6808bc1f1600132ab79e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638e0f4832494900074481e7" start="20261030024800 +0000" stop="20261030060000 +0000">
+    <programme channel="638e0f4832494900074481e7" start="20261030024800 +0000" stop="20261030033700 +0000">
+        <title>The Jerry Springer Show</title>
+        <desc>Torrance admits to cheating on his girlfriend with a shocking twist. Then, Heather wants her boyfriend’s ex Tramisha to stop interfering with their relationship.</desc>
+        <icon src="https://images.pluto.tv/series/630f6808bc1f1600132ab79e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638e0f4832494900074481e7" start="20261030033700 +0000" stop="20261030060000 +0000">
         <title>Confess by Nosey</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638e0f4832494900074481e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54469,7 +54939,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>National and local forecast details for across the country</desc>
         <icon src="https://images.pluto.tv/series/69f368ac48671c8097ecceaf/tile_1785191007567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63da370e2e477400081cf8b6" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="63da370e2e477400081cf8b6" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>Your Weather Tonight</title>
+        <desc>National and local forecast details for across the country</desc>
+        <icon src="https://images.pluto.tv/series/69f368ac48671c8097ecceaf/tile_1785191007567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63da370e2e477400081cf8b6" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>The Weather Network</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54479,7 +54954,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>In 1980, Itavia Flight 870 exploded over the sea; after 30 years of investigations, experts finally reveal the truth behind the mysterious disaster.</desc>
         <icon src="https://images.pluto.tv/series/651adb98a78f0d001a3dbd42/tile_1764954500279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64e89cfc9c1e3900084ca663" start="20261030022900 +0000" stop="20261030060000 +0000">
+    <programme channel="64e89cfc9c1e3900084ca663" start="20261030022900 +0000" stop="20261030032500 +0000">
+        <title>Mayday: Air Disaster</title>
+        <desc>After an explosion rips both engines off the right wing, the pilots of Transair 671 manage a landing at a French military airfield.</desc>
+        <icon src="https://images.pluto.tv/series/651adb98a78f0d001a3dbd42/tile_1764954500279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64e89cfc9c1e3900084ca663" start="20261030032500 +0000" stop="20261030060000 +0000">
         <title>Mayday: Air Disaster</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/featuredImage_1780053268519.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54489,7 +54969,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
         <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6536721dbfbaec00088687c0" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6536721dbfbaec00088687c0" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC News Toronto</title>
+        <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+        <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6536721dbfbaec00088687c0" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBC News Toronto</title>
+        <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+        <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6536721dbfbaec00088687c0" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News Toronto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/featuredImage_1768554062855.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54499,7 +54989,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
         <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile_1758665142139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6536725167bd1a00084481bc" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="6536725167bd1a00084481bc" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+        <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile_1758665142139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6536725167bd1a00084481bc" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6536725167bd1a00084481bc/featuredImage_1763054603552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54509,7 +55004,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>It was meant to be a temporary exhibit, a demonstration of French engineering acumen at the Paris World's Fair; but to Parisians, the tower, designed by the brash, young Gustave Eiffel, came to stand for much more.</desc>
         <icon src="https://images.pluto.tv/series/65e1aeac5c25f6001340f69e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540ff2d770cf1000866b90a" start="20261030024000 +0000" stop="20261030060000 +0000">
+    <programme channel="6540ff2d770cf1000866b90a" start="20261030024000 +0000" stop="20261030033300 +0000">
+        <title>Modern Marvels</title>
+        <desc>After an oxygen tank explodes, scientists and engineers race against time to save the crew of crippled spacecraft Apollo 13; the mission, which nearly ended in tragedy, becomes a resounding success and exemplifies NASA's finest hour.</desc>
+        <icon src="https://images.pluto.tv/series/65e1aeac5c25f6001340f69e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6540ff2d770cf1000866b90a" start="20261030033300 +0000" stop="20261030060000 +0000">
         <title>Modern Marvels</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54519,7 +55019,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Carmelo Anthony is one of the greatest scorers in NBA history and a three-time Olympic gold medalist.</desc>
         <icon src="https://images.pluto.tv/series/65983590d40ef30013d641fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a803b607e03a0008925118" start="20261030020924 +0000" stop="20261030060000 +0000">
+    <programme channel="65a803b607e03a0008925118" start="20261030020924 +0000" stop="20261030023824 +0000">
+        <title>Hot Ones</title>
+        <desc>"Jackass" star Steve-O has more than nine lives, but can he survive the wings of death?</desc>
+        <icon src="https://images.pluto.tv/series/65983590d40ef30013d641fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a803b607e03a0008925118" start="20261030023824 +0000" stop="20261030030824 +0000">
+        <title>Hot Ones</title>
+        <desc>Chance the Rapper is a three-time Grammy Award winner and one of the most exciting names in hip-hop.</desc>
+        <icon src="https://images.pluto.tv/series/65983590d40ef30013d641fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a803b607e03a0008925118" start="20261030030824 +0000" stop="20261030060000 +0000">
         <title>Hot Ones</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a803b607e03a0008925118/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54529,7 +55039,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Joining Graham are Jennifer Lawrence, Eddie Redmayne, Will Ferrell, Mark Wahlberg and Years and Years.</desc>
         <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20261030023700 +0000" stop="20261030060000 +0000">
+    <programme channel="66166ce7aec96800080f6bd3" start="20261030023700 +0000" stop="20261030031800 +0000">
+        <title>The Graham Norton Show</title>
+        <desc>On the sofa tonight: Lena Dunham, star of hit show `Girls'; actress Olivia Colman; Idris Elba, currently playing Nelson Mandela in `The Long Walk to Freedom'; and music from Keane.</desc>
+        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66166ce7aec96800080f6bd3" start="20261030031800 +0000" stop="20261030060000 +0000">
         <title>The Graham Norton Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54539,7 +55054,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>CBC News British Columbia</desc>
         <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile_1791489156843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a8f01914a2bb00084dd86c" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="66a8f01914a2bb00084dd86c" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC News British Columbia</title>
+        <desc>CBC News British Columbia</desc>
+        <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile_1791489156843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a8f01914a2bb00084dd86c" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBC News British Columbia</title>
+        <desc>CBC News British Columbia</desc>
+        <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile_1791489156843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a8f01914a2bb00084dd86c" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News British Columbia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a8f01914a2bb00084dd86c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54549,7 +55074,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
         <icon src="https://images.pluto.tv/series/6a26e70e309740fdc6f4c6ce/tile_1785205521935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c274f25dd00092739ee" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="66c45c274f25dd00092739ee" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>In Case You Missed It</title>
+        <desc>Check out the most interesting and unforgettable moments from CNN… in case you missed it!</desc>
+        <icon src="https://images.pluto.tv/series/6a26e70ec76dcd13ccaa9d00/tile_1785205522335.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c45c274f25dd00092739ee" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CNN Headlines</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/featuredImage_1780668932155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54559,7 +55089,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Unique access to the museum example of 'The Turkey' is combined with stunning archive footage.</desc>
         <icon src="https://images.pluto.tv/series/6a456ffee0c1a338413b40a6/tile_1785274441571.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69dd5d7bfcb9bf5e3063cb16" start="20261030025342 +0000" stop="20261030060000 +0000">
+    <programme channel="69dd5d7bfcb9bf5e3063cb16" start="20261030025342 +0000" stop="20261030034542 +0000">
+        <title>Hitler's Gold: Funding the Nazi Party</title>
+        <desc>How did the Nazis become Germany's strongest political force and have its foreign leader nominated chancellor?</desc>
+        <icon src="https://images.pluto.tv/series/6a733fd699b7eee30930f5fa/tile_1785937878912.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69dd5d7bfcb9bf5e3063cb16" start="20261030034542 +0000" stop="20261030060000 +0000">
         <title>History &amp; Warfare</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69dd5d7bfcb9bf5e3063cb16/featuredImage_1778684950927.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54569,7 +55104,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
         <icon src="https://images.pluto.tv/series/6ac000eaad0d80253cb48dee/tile_1792594125910.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec237a9bc501c300c9e6" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec237a9bc501c300c9e6" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBC News Nova Scotia</title>
+        <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+        <icon src="https://images.pluto.tv/series/6ac000ebc3565bfc32310599/tile_1792594134956.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec237a9bc501c300c9e6" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News Nova Scotia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec237a9bc501c300c9e6/featuredImage_1792594015111.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54579,7 +55119,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A concise, up-to-date report on developing stories, plus weather and sports.</desc>
         <icon src="https://images.pluto.tv/series/6abc28176d62a56d3ba84504/tile_1791489797763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec2ec349e6a78bb333eb" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec2ec349e6a78bb333eb" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Montreal News</title>
+        <desc>A concise, up-to-date report on developing stories, plus weather and sports.</desc>
+        <icon src="https://images.pluto.tv/series/6abc28176d62a56d3ba84504/tile_1791489797763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec2ec349e6a78bb333eb" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6abc28176c375ba4cbf0df1a/tile_1791489823336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec2ec349e6a78bb333eb" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Quebec</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/featuredImage_1790975116070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54589,7 +55139,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Our community. Our neighbourhoods. The news of our city.</desc>
         <icon src="https://images.pluto.tv/series/6ac001daafb03c11c8c757bb/tile_1792418330333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec396d05845d59cdabc0" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec396d05845d59cdabc0" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Winnipeg News</title>
+        <desc>Our community. Our neighbourhoods. The news of our city.</desc>
+        <icon src="https://images.pluto.tv/series/6ac001daafb03c11c8c757bb/tile_1792418330333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec396d05845d59cdabc0" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac001d8417a4b67e5cb495c/tile_1792417926779.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec396d05845d59cdabc0" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Manitoba</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/featuredImage_1792162386664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54599,7 +55159,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Take a trip to Ottawa with CBC News.</desc>
         <icon src="https://images.pluto.tv/series/6ac00598d6f47f9aa718dc66/tile_1792418627284.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec477a9bc501c300ca35" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec477a9bc501c300ca35" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Ottawa News</title>
+        <desc>Take a trip to Ottawa with CBC News.</desc>
+        <icon src="https://images.pluto.tv/series/6ac00598d6f47f9aa718dc66/tile_1792418627284.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec477a9bc501c300ca35" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac0059a58918556e695d09a/tile_1792418761715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec477a9bc501c300ca35" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Ottawa</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/featuredImage_1792161692436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54609,7 +55179,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>A roundup of the news that matters most to you.</desc>
         <icon src="https://images.pluto.tv/series/6abc27faaf45eb18db765e23/tile_1791490957570.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec502714ce519248c55e" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec502714ce519248c55e" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Calgary News</title>
+        <desc>A roundup of the news that matters most to you.</desc>
+        <icon src="https://images.pluto.tv/series/6abc27faaf45eb18db765e23/tile_1791490957570.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec502714ce519248c55e" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6abc27faafb03c11c8ac199b/tile_1791490918700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec502714ce519248c55e" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Calgary</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/featuredImage_1791207790533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54619,7 +55199,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>The stories and newsmakers that matter most to you.</desc>
         <icon src="https://images.pluto.tv/series/6abc2809f2eaa89247968c42/tile_1791491399386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec5abd51830177e9a185" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec5abd51830177e9a185" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Edmonton News</title>
+        <desc>The stories and newsmakers that matter most to you.</desc>
+        <icon src="https://images.pluto.tv/series/6abc2809f2eaa89247968c42/tile_1791491399386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec5abd51830177e9a185" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6abc2807f2eaa89247968c36/tile_1791491138776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec5abd51830177e9a185" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Edmonton</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/featuredImage_1791207891782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54629,7 +55219,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Join Ethan Williams and the CBC Saskatchewan team every weeknight for your local news and weather.</desc>
         <icon src="https://images.pluto.tv/series/6ac002c77a9bc501c36b689e/tile_1792418977709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec640c9f5239c2f17359" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec640c9f5239c2f17359" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Saskatchewan News</title>
+        <desc>Join Ethan Williams and the CBC Saskatchewan team every weeknight for your local news and weather.</desc>
+        <icon src="https://images.pluto.tv/series/6ac002c77a9bc501c36b689e/tile_1792418977709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec640c9f5239c2f17359" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac002c9611342bebf35b102/tile_1792419103771.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec640c9f5239c2f17359" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Saskatchewan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/featuredImage_1792162938456.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54639,7 +55239,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
         <icon src="https://images.pluto.tv/series/6ac000b2e61416122fabd61c/tile_1792419367681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec6dde3a888e5a491479" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec6dde3a888e5a491479" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBC New Brunswick News</title>
+        <desc>The news, weather and stories that matter to New Brunswickers.</desc>
+        <icon src="https://images.pluto.tv/series/6ac000b47767d09102a22bed/tile_1792419505391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec6dde3a888e5a491479" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News New Brunswick</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/featuredImage_1792162742552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54649,7 +55254,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
         <icon src="https://images.pluto.tv/series/6ac00250c349e6a78b2158c0/tile_1792597062043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec76496b635ad6da73f5" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec76496b635ad6da73f5" start="20261030023000 +0000" stop="20261030033000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac00252ad0d80253cb49764/tile_1792597095689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec76496b635ad6da73f5" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News NL</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec76496b635ad6da73f5/featuredImage_1792596967868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54659,7 +55269,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>CBC News Igalaaq brings you the day's news in the Inuktitut language every evening.</desc>
         <icon src="https://images.pluto.tv/series/6ac005d4417a4b67e5cba34f/tile_1792594440995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec805532ad5708651be3" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec805532ad5708651be3" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Northbeat</title>
+        <desc>Local, national and international news, as well as weather, and documentaries for the Yukon, NWT and Nunavut.</desc>
+        <icon src="https://images.pluto.tv/series/6ac005d5bd5183017752ab4c/tile_1792594451582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec805532ad5708651be3" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac005d50c9f5239c25ec4e8/tile_1792594464365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec805532ad5708651be3" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News North</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec805532ad5708651be3/featuredImage_1792594346518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54669,7 +55289,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
         <icon src="https://images.pluto.tv/series/6ac00430afb03c11c8c76560/tile_1792596613821.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec898ce7aa0932094d4e" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec898ce7aa0932094d4e" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBC News PEI</title>
+        <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+        <icon src="https://images.pluto.tv/series/6ac0043361511dd292be9530/tile_1792596684441.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec898ce7aa0932094d4e" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBC News PEI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec898ce7aa0932094d4e/featuredImage_1792596562241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -54679,7 +55304,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Katerina Georgieva hosts a fast paced, in-depth hour of the latest local, national and international news.</desc>
         <icon src="https://images.pluto.tv/series/6ac00367c3565bfc323112bb/tile_1792591680329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aaaec94611342bebfd49e9e" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6aaaec94611342bebfd49e9e" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>CBC Windsor News</title>
+        <desc>Katerina Georgieva hosts a fast paced, in-depth hour of the latest local, national and international news.</desc>
+        <icon src="https://images.pluto.tv/series/6ac00367c3565bfc323112bb/tile_1792591680329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec94611342bebfd49e9e" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>The National</title>
+        <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+        <icon src="https://images.pluto.tv/series/6ac0036720ec28a21a40e91c/tile_1792591668110.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aaaec94611342bebfd49e9e" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CBC News Windsor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6aaaec94611342bebfd49e9e/featuredImage_1792534058497.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55259,7 +55894,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Les tortues veulent tuer Dracula avant que Savanti ne s'en empare. Mais Raph est transformé en vampire et Savanti s'enfuit, emportant avec lui la momie, un loup-garou (le père d'Esméralda), Raph et Dracula.</desc>
         <icon src="https://images.pluto.tv/series/630f36258762280014a2e036/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e9566e27ce19000732ec85" start="20261030021300 +0000" stop="20261030060000 +0000">
+    <programme channel="62e9566e27ce19000732ec85" start="20261030021300 +0000" stop="20261030023800 +0000">
+        <title>Les Tortues Ninja</title>
+        <desc>Les tortues ninja partent en Allemagne en 1818 pour tenter d'arrêter Savanti Roméro, qui veut engager Frankenstein dans son armée. Ils échouent mais grace à Reinette les tortues retournent dans le futur pour une dernière tentative.</desc>
+        <icon src="https://images.pluto.tv/series/630f36258762280014a2e036/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20261030023800 +0000" stop="20261030030300 +0000">
+        <title>Les Tortues Ninja</title>
+        <desc>La ville de New York est envahie par des monstres en tous genres. Les tortues, aidées de Reinette, tentent de déjouer le plan de Savanti Romero et de Dracula.</desc>
+        <icon src="https://images.pluto.tv/series/630f36258762280014a2e036/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20261030030300 +0000" stop="20261030060000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55289,7 +55934,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Jeremy, Richard and James head to Albania to test a trio of super luxurious cars. Contains Strong Language.</desc>
         <icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1785186745111.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638e10220aa6a6000726979f" start="20261030022645 +0000" stop="20261030060000 +0000">
+    <programme channel="638e10220aa6a6000726979f" start="20261030022645 +0000" stop="20261030033659 +0000">
+        <title>Top Gear UK</title>
+        <desc>Jeremy builds a miniature car, James and Richard test drive a new Bentley and Pagani.</desc>
+        <icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1785186745111.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638e10220aa6a6000726979f" start="20261030033659 +0000" stop="20261030060000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638e10220aa6a6000726979f/featuredImage_1756376783356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55309,7 +55959,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>The M.A.D. agents trying to destroy the circus are no match for Inspector Gadget, Penny and Chief Quimby.</desc>
         <icon src="https://images.pluto.tv/series/64678c2054afb6001a30b9b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6408b41b83f58900081d91ad" start="20261030021500 +0000" stop="20261030060000 +0000">
+    <programme channel="6408b41b83f58900081d91ad" start="20261030021500 +0000" stop="20261030024200 +0000">
+        <title>Inspector Gadget</title>
+        <desc>Inspector Gadget prevents Dr. Claw from kidnapping the father of modern bionics, Professor Von Slicksfein.</desc>
+        <icon src="https://images.pluto.tv/series/64678c2054afb6001a30b9b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408b41b83f58900081d91ad" start="20261030024200 +0000" stop="20261030030900 +0000">
+        <title>Inspector Gadget</title>
+        <desc>Inspector Gadget foils Dr. Claw's plans to destroy him while on a vacation at a health spa.</desc>
+        <icon src="https://images.pluto.tv/series/64678c2054afb6001a30b9b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408b41b83f58900081d91ad" start="20261030030900 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Retro Kid</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55319,7 +55979,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Filmed in high definition on 25 July 2004 at Wolf Trap National Park for the Performing Arts in Virginia, Live At Wolf Trap captures The Doobie Brothers in fine form on a set that mixes classic hits with some rarely performed tracks.</desc>
         <icon src="https://images.pluto.tv/series/69e16a143312e3048e405b43/tile_1787350145239.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64240d3d466225000827412b" start="20261030021900 +0000" stop="20261030060000 +0000">
+    <programme channel="64240d3d466225000827412b" start="20261030021900 +0000" stop="20261030040000 +0000">
+        <title>Heart - Live At The Royal Albert Hall</title>
+        <desc>This film captures not only Heart's first-ever live performance at the Royal Albert Hall but is also the first concert film of Heart performing with a full orchestra.</desc>
+        <icon src="https://images.pluto.tv/series/69e16a143312e3048e405bb1/tile_1787253016500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64240d3d466225000827412b" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>Qello Concerts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64240d3d466225000827412b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55329,7 +55994,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>From Anfield in Liverpool, Merseyside, England.</desc>
         <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="647f07e74cfc2c0008a2e557" start="20261030021400 +0000" stop="20261030060000 +0000">
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261030021400 +0000" stop="20261030024200 +0000">
+        <title>UEFA Champions League Soccer</title>
+        <desc>From Dragao Stadium in Porto, Norte, Portugal.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261030024200 +0000" stop="20261030031100 +0000">
+        <title>UEFA Champions League Soccer</title>
+        <desc>From Diego Armando Maradona Stadium in Naples, Campania, Italy.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261030031100 +0000" stop="20261030060000 +0000">
         <title>DAZN TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55339,7 +56014,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
         <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793204852990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261030021908 +0000" stop="20261030060000 +0000">
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261030021908 +0000" stop="20261030023908 +0000">
+        <title>10's Hits</title>
+        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793204852990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261030023908 +0000" stop="20261030030108 +0000">
+        <title>10's Hits</title>
+        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793204852990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261030030108 +0000" stop="20261030060000 +0000">
         <title>MTV Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55349,7 +56034,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
         <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6541010f770cf1000866be98" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6541010f770cf1000866be98" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6541010f770cf1000866be98/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55359,7 +56054,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
         <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65410176770cf1000866bf31" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="65410176770cf1000866bf31" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65410176770cf1000866bf31/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55369,7 +56074,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
         <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654102ed770cf1000866c307" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="654102ed770cf1000866c307" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Yo! MTV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654102ed770cf1000866c307/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55399,7 +56114,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>tbc</desc>
         <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile_1783966818548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66588931a3865300085ca800" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="66588931a3865300085ca800" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile_1783966818548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile_1783966818548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66588931a3865300085ca800/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55409,7 +56134,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Relive the most exciting and unforgettable finishes from UFC 333!</desc>
         <icon src="https://images.pluto.tv/series/6aa457f7bd51830177d5a7d1/tile_1789156304236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ed3eb27358ce000830df49" start="20261030020052 +0000" stop="20261030060000 +0000">
+    <programme channel="66ed3eb27358ce000830df49" start="20261030020052 +0000" stop="20261030023207 +0000">
+        <title>UFC Fight Flashback</title>
+        <desc>UFC Fight Flashback: Khabib vs McGregor is an enhanced replay of this incredible night to remember.</desc>
+        <icon src="https://images.pluto.tv/series/6a07401e2c1c785c117612d7/tile_1785202761694.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20261030023207 +0000" stop="20261030030324 +0000">
+        <title>UFC Fight Flashback</title>
+        <desc>See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+        <icon src="https://images.pluto.tv/series/6a07401e2c1c785c117612d7/tile_1785202761694.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20261030030324 +0000" stop="20261030060000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55429,7 +56164,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Two-time world champion Adrian Lewis steps back into the spotlight in an exclusive interview with Chris Murphy.</desc>
         <icon src="https://images.pluto.tv/series/689a073a9017101f050d6378/tile_1779228695053.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671645c4529ac900080c9a0b" start="20261030020700 +0000" stop="20261030060000 +0000">
+    <programme channel="671645c4529ac900080c9a0b" start="20261030020700 +0000" stop="20261030024100 +0000">
+        <title>Break of Throw: Raymond van Barneveld</title>
+        <desc>Glen Durrant analyses Barney's throw with expert insight from Raymond van Barneveld himself.</desc>
+        <icon src="https://images.pluto.tv/series/68aca817fd92ab53e8c807d6/tile_1793229834867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671645c4529ac900080c9a0b" start="20261030024100 +0000" stop="20261030031600 +0000">
+        <title>Break of Throw: Left Handers</title>
+        <desc>Scott Mitchell studies the technique behind the left-handed throws of Graham Usher and Scott Campbell.</desc>
+        <icon src="https://images.pluto.tv/series/68bf0f6d8376cad38d2ce8a0/tile_1793229409386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671645c4529ac900080c9a0b" start="20261030031600 +0000" stop="20261030060000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671645c4529ac900080c9a0b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55439,7 +56184,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Odie finds a genie and is granted his wish to fly. A witch decides Jon will be her husband.</desc>
         <icon src="https://images.pluto.tv/series/67570e6b2678a50014375825/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677f927554f43dad4b3258aa" start="20261030021300 +0000" stop="20261030060000 +0000">
+    <programme channel="677f927554f43dad4b3258aa" start="20261030021300 +0000" stop="20261030024200 +0000">
+        <title>Garfield &amp; Friends</title>
+        <desc>Garfield demonstrates the importance of sound effects. The Wolf convinces the crew aliens have landed.</desc>
+        <icon src="https://images.pluto.tv/series/67570e6b2678a50014375825/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f927554f43dad4b3258aa" start="20261030024200 +0000" stop="20261030031100 +0000">
+        <title>Garfield &amp; Friends</title>
+        <desc>Garfield and Odie are snowbound in a cabin with no food./A monster circulates around the farm, Orson dons his "Power Pig" togs./Garfield dreams he changes places with Jon.</desc>
+        <icon src="https://images.pluto.tv/series/67570e6b2678a50014375825/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f927554f43dad4b3258aa" start="20261030031100 +0000" stop="20261030060000 +0000">
         <title>Garfield and Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55449,7 +56204,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <icon src="https://images.pluto.tv/series/697c8906b06fa36c2b589c22/tile_1769769223562.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6972546cc62833833a187f50" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="6972546cc62833833a187f50" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>Cricket Highlights</title>
+        <desc>Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <icon src="https://images.pluto.tv/series/697c8906b06fa36c2b589c22/tile_1769769223562.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6972546cc62833833a187f50" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>Willow Sports</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6972546cc62833833a187f50/featuredImage_1770380391742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55459,7 +56219,12 @@ his integrity and his relationship with Colt.</desc>
         <desc>Vegas Golden Knights goalie Marc-Andre Fleury comes to Count's Kustoms looking for an All-American muscle car fit for a three-time Stanley Cup champion.</desc>
         <icon src="https://images.pluto.tv/series/65e62147a3a85800138946b1/tile_1790721007766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c592dff0f1a7d732dc6e36" start="20261030022800 +0000" stop="20261030060000 +0000">
+    <programme channel="69c592dff0f1a7d732dc6e36" start="20261030022800 +0000" stop="20261030031800 +0000">
+        <title>Counting Cars</title>
+        <desc>Danny has big plans for a little street rocket known as a Manta, and the crew commissions an 80s era Corvette that the owner wants to bring into the new millennium. Shannon meets a motorcycle racer who wants her Harley XR1200 customized.</desc>
+        <icon src="https://images.pluto.tv/series/65e62147a3a85800138946b1/tile_1790721007766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c592dff0f1a7d732dc6e36" start="20261030031800 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Cars</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/featuredImage_1774557827331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55469,7 +56234,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>The toughest goalies drop the gloves in the best fights of the 2025-26 FloHockey season.</desc>
         <icon src="https://images.pluto.tv/series/6a8436446d62a56d3bb3e478/tile_1787049540996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a67825875fd5e3828e83703" start="20261030021318 +0000" stop="20261030060000 +0000">
+    <programme channel="6a67825875fd5e3828e83703" start="20261030021318 +0000" stop="20261030023055 +0000">
+        <title>The Best Of Diamond Hands Daniel Amesbury</title>
+        <desc>The best Daniel "Diamond Hands" Amesbury fights from around the ECHL.</desc>
+        <icon src="https://images.pluto.tv/series/6a8434ef815e1932ebb28f6a/tile_1787049200263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a67825875fd5e3828e83703" start="20261030023055 +0000" stop="20261030035604 +0000">
+        <title>Called Up: The Prospects Podcast Episode 86</title>
+        <desc>Chris and Cam have World Juniors on the mind, while Cam shares scouting reports from Sweden and we take listener questions.</desc>
+        <icon src="https://images.pluto.tv/series/6adb851b923d406af74c2e83/tile_1792771404795.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a67825875fd5e3828e83703" start="20261030035604 +0000" stop="20261030060000 +0000">
         <title>FloHockey 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a67825875fd5e3828e83703/featuredImage_1785780851784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -55489,7 +56264,17 @@ his integrity and his relationship with Colt.</desc>
         <desc>Shea McIntee and his brother Ryan McIntee explore the High Sierra lakes and catch three different trout species.</desc>
         <icon src="https://images.pluto.tv/series/6aac042c198ce62db3b53a45/tile_1789658173763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a8d96996d62a56d3bdd959c" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Catching Bass With Dustin Wilks 2024</title>
+        <desc>Dustin takes viewers to the top destinations for the biggest fish.</desc>
+        <icon src="https://images.pluto.tv/series/6aac042daf45eb18db24de8e/tile_1789658173178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>FishON! Season 7</title>
+        <desc>Join us as we travel to Ole's Adventure Lodge on the picturesque Whitefish Lake, just west of Thunder Bay, Ontario. In this special episode, we shine a spotlight on the Experience Fishing program, dedicated to introducing the joys of angling to childr...</desc>
+        <icon src="https://images.pluto.tv/series/6aac0436417a4b67e566146c/tile_1789658197151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Wired2Fish TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/featuredImage_1788890483452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

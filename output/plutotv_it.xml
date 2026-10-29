@@ -3231,6 +3231,11 @@
         <desc>La relación sentimental entre Vienna, la propietaria de un salón, y Johnny Guitar, un pistolero con el que se vuelve a encontrar en un difícil momento, constituye todo un clásico que alcanzó un gran éxito de taquilla.</desc>
         <icon src="https://images.pluto.tv/series/673b0d50882f6d0013934982/tile_1769191202180.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20261029072424 +0000" stop="20261029085503 +0000">
+        <title>Solo ante el peligro</title>
+        <desc>Ganadora de 4 Oscars, 1952. Will Kane es el sheriff de un pequeño pueblo donde correr por el pueblo la noticia de que Frank Miller, un criminal que Kane había atrapado, ha salido de la cárcel y llegará en el tren del mediodía para vengarse.</desc>
+        <icon src="https://images.pluto.tv/series/673b0d59882f6d0013934c07/tile_1769191202161.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="680ba8992472a7200a183eb5" start="20261029014720 +0000" stop="20261029021311 +0000">
         <title>One Piece</title>
         <desc>El payaso Buggy encuentra al fin a Luffy y lo manda ejecutar en el mismo lugar en donde ejecutaron al Rey de los Piratas Gold Roger. Aparecen Zorro y Sanji pero es demasiado tarde...</desc>
@@ -7766,6 +7771,11 @@ La Gran Congelación + Scrapper Limpia</desc>
         <desc>A la edad de 22 años, Bertolucci dirige este drama político que relata la historia de un joven que se acerca al comunismo mientras mantiene una relación incestuosa con su tía.</desc>
         <icon src="https://images.pluto.tv/series/695b7c28bd4e7744e72e9fba/tile_1767629529864.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20261029100758 +0000" stop="20261029120131 +0000">
+        <title>Bolero</title>
+        <desc>Una atractiva mujer visita España, donde mantiene un tórrido romance con un torero. Drama erótico a mayor gloria de Bo Derek, dirigida por su marido.</desc>
+        <icon src="https://images.pluto.tv/series/6638e0fbe42c230013d48fa4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac9a2d3611d0007a844bb" start="20261029052130 +0000" stop="20261029071547 +0000">
         <title>La felicidad nunca viene sola</title>
         <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
@@ -11944,6 +11954,11 @@ Limpieza de primavera + Sin mascotas</desc>
         <desc>Laurey Williams (Shirley Jones) se siente atraída por el cowboy y cantante Curly (Gordon MacRae), pero antes de aceptarlo, quiere asegurarse de que él la valora como se merece. Entre tanto, coqueteará con Jud Fry (Rod Steiger)</desc>
         <icon src="https://images.pluto.tv/series/656f0c8cb8262d001327f14a/tile_1782269656047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20261029144145 +0000" stop="20261029161254 +0000">
+        <title>El americano</title>
+        <desc>Un vaquero americano transporta ganado de Estados Unidos a la selva de Brasil, donde ha vendido una manada de toros por una gran suma de dinero.</desc>
+        <icon src="https://images.pluto.tv/series/64fee958020c540013074ccf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6475bfec536e0c0008858e9f" start="20261029085902 +0000" stop="20261029101848 +0000">
         <title>Sueña Sin Límites</title>
         <desc>Hye-mi y Jin-guk inevitablemente subirán al escenario debido a la demanda de Beom-su. Jin-guk, que recuerda a su padre, quien le dijo que viviera en silencio, comete un error al dejar caer el micrófono y el escenario termina con un desastre.</desc>
@@ -13238,6 +13253,11 @@ Limpieza de primavera + Sin mascotas</desc>
         <title>Fahrenheit 451</title>
         <desc>En un futuro opresivo Guy Montag, un disciplinado bombero encargado de quemar los libros prohibidos por el gobierno, conoce a una revolucionaria maestra que se atreve a leer.</desc>
         <icon src="https://images.pluto.tv/series/673b0a802678a50014db53cf/tile_1769190843014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20261029142737 +0000" stop="20261029161021 +0000">
+        <title>Life of Brian</title>
+        <desc>Brian nace en un pesebre de Belén el mismo día que Jesucristo. Un cúmulo de desgraciados y tronchantes equívocos le harán llevar una vida paralela a la del verdadero Hijo de Dios.</desc>
+        <icon src="https://images.pluto.tv/series/67405a58e07f280013146803/tile_1768602607110.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="680ba8992472a7200a183eb5" start="20261029093711 +0000" stop="20261029100318 +0000">
         <title>One Piece</title>
@@ -17731,6 +17751,11 @@ Super-Trolley + Urraca</desc>
         <title>Solteras Indisponibles</title>
         <desc>Tres niñas pequeñas, mejores amigas, conocen a un hechicero que les concede un deseo: tener la misma suerte en el amor. Varios años después, cada una de ellas tiene su propia vida hasta que un día un evento inesperado cambia sus destinos</desc>
         <icon src="https://images.pluto.tv/series/5fc527f02fd74a0014cd4a29/tile_1793204303645.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20261029184120 +0000" stop="20261029203420 +0000">
+        <title>Las Aventuras De Moriana</title>
+        <desc>Después de un aviso de desalojo, Moriana, una madre con tres hijos, se adelanta a la vida y comienza un negocio de restaurante que no funciona.</desc>
+        <icon src="https://images.pluto.tv/series/5fc526b90983410013db2b2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20261029132813 +0000" stop="20261029145550 +0000">
         <title>Campus Code</title>
@@ -27889,6 +27914,11 @@ Día de boda + Teléfono Bean</desc>
         <desc>David es un comunista convencido que estudia en la Universidad de La Habana. Diego es un artista homosexual acosado por la homofobia del régimen castrista. A pesar de las abismales diferencias que los separan, entre ellos surge una profunda amistad.</desc>
         <icon src="https://images.pluto.tv/series/63b411b888bc2000134e3d21/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20261030023510 +0000" stop="20261030042910 +0000">
+        <title>Reina Cristina</title>
+        <desc>El retrato de la brillante y extravagante Kristina de Suecia, reina desde los seis años, que lucha contra las fuerzas conservadoras que están en contra de sus ideas para modernizar Suecia y que no toleran su sexualidad.</desc>
+        <icon src="https://images.pluto.tv/series/63ad7600a6bb3b001471c4e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61373bb45168fe000773eecd" start="20261029214829 +0000" stop="20261029233313 +0000">
         <title>La noche del demonio</title>
         <desc>El Profesor Henry Harrington (Maurice Denham), un investigador de sectas que venía denunciando las actividades demonológicas del Dr. Karswell, muere en un extraño accidente.</desc>
@@ -30675,7 +30705,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Es difícil condenar a un asesino sin encontrar el cuerpo. Pero la ciencia forense puede encontrar maneras de hacerlo. Los asesinos astutos pueden deshacerse de los restos de sus víctimas, pero a menudo no son rivales para los investigadores creativos.</desc>
         <icon src="https://images.pluto.tv/series/5f4f87403a6a110013ca2005/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acba0d1f6340007db8843" start="20261030023900 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1acba0d1f6340007db8843" start="20261030023900 +0000" stop="20261030034000 +0000">
+        <title>The New Detectives: Rastros de evidencia</title>
+        <desc>Pelos y fibras: el filamento más pequeño puede ser en una marca de distinción en las formas más íntimas.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f87403a6a110013ca2005/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acba0d1f6340007db8843" start="20261030034000 +0000" stop="20261030060000 +0000">
         <title>Los nuevos detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30685,7 +30720,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Después de que un criminal con trayectoria cometiera un homicidio vehicular  en Nueva Orleans, los agentes del FBI lo rastrearon por medio de sus hábitos y adicciones.</desc>
         <icon src="https://images.pluto.tv/series/5f4fc0e31629e7001abe999c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acbed25948a0007ffbe65" start="20261030021400 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1acbed25948a0007ffbe65" start="20261030021400 +0000" stop="20261030031200 +0000">
+        <title>Los archivos del FBI: Invasores de Hogares</title>
+        <desc>A principios de los años ochenta, un par de ladrones en serie de bancos ganaron reputación entre las fuerzas de la ley como bandidos formidables.</desc>
+        <icon src="https://images.pluto.tv/series/5f4fc0e31629e7001abe999c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acbed25948a0007ffbe65" start="20261030031200 +0000" stop="20261030060000 +0000">
         <title>Los archivos del FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30695,7 +30735,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Los cuerpos de varias mujeres se encuentran en una colina distante en California. La policía hace un descubrimiento cuando una prostituta se escapa y logra identificar a su agresor y su automóvil.</desc>
         <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f984f4a09e92d0007d74647" start="20261030020252 +0000" stop="20261030060000 +0000">
+    <programme channel="5f984f4a09e92d0007d74647" start="20261030020252 +0000" stop="20261030023052 +0000">
+        <title>Archivos Forenses: El Cráneo Parlante</title>
+        <desc>En 1987, se descubrieron un cráneo humano y algunos huesos en un campamento de niños exploradores cerca de Farmington, Missouri. La reconstrucción facial ayuda a los investigadores en este caso.</desc>
+        <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f984f4a09e92d0007d74647" start="20261030023052 +0000" stop="20261030030042 +0000">
+        <title>Archivos Forenses</title>
+        <desc>En este episodio clásico de Archivos Forenses (Forensic Files), la serie de crímenes reales más extensa de la historia de la televisión, un terrorista en serie apunta a un juez, dos abogados e incluso a una casa de la corte.</desc>
+        <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f984f4a09e92d0007d74647" start="20261030030042 +0000" stop="20261030060000 +0000">
         <title>Archivos Forenses</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/featuredImage_1763542907955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30705,7 +30755,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El nuevo plan de dinero de Seth atrae duras críticas de Ashley. Pero si funciona, podría significar millones para la tienda.</desc>
         <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60218baa464ef900073168c1" start="20261030021900 +0000" stop="20261030060000 +0000">
+    <programme channel="60218baa464ef900073168c1" start="20261030021900 +0000" stop="20261030024400 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>A Les le encanta una buena historia, pero ¿está siendo engañado por un grupo de vendedores inteligentes?</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20261030024400 +0000" stop="20261030030800 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Seth queda sorprendido cuando Les trae de vuelta a la ex empleada Amy, quien, según él, los jodió.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20261030030800 +0000" stop="20261030060000 +0000">
         <title>Empeños a lo bestia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30725,7 +30785,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Top Gear emprende una carrera épica desde Resolute, Canadá, hasta el Polo Norte Magnético recorriendo 724 km.</desc>
         <icon src="https://images.pluto.tv/series/6aba35dc8ce7aa09324e6b8e/tile_1790588983782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20261030023526 +0000" stop="20261030060000 +0000">
+    <programme channel="60d356a534f63f000850cdd7" start="20261030023526 +0000" stop="20261030033426 +0000">
+        <title>Top Gear: Temporada 10, Episodio 1</title>
+        <desc>En el primer capítulo de la nueva temporada, Jeremy, Richard y James conducen tres supercoches ligeros por Europa, en busca de las mejores carreteras. Jeremy descubre qué sucede cuando pone el motor de un Bentley en un VW Golf.</desc>
+        <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d356a534f63f000850cdd7" start="20261030033426 +0000" stop="20261030060000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/featuredImage_1760687705283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30735,7 +30800,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El hogar debería ser un remanso de solaz, un refugio de los males externos. ¿Pero qué sucede cuando un terror paranormal lo invade y el hogar se convierte en una prisión?</desc>
         <icon src="https://images.pluto.tv/series/609532f00c3a580013e2bc76/tile_1782270019302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20261030024052 +0000" stop="20261030060000 +0000">
+    <programme channel="612ce5214bb5790007ad3016" start="20261030024052 +0000" stop="20261030033552 +0000">
+        <title>Historias de Ultratumba: Hechizo</title>
+        <desc>La fe es una fuerza poderosa. Puede proporcionar fuerza a los débiles. Puede calmar los mares más tempestuosos. Pero, para la mayoría de las personas, la fe brinda respuestas que pueden ayudar a darle sentido a un mundo caótico.</desc>
+        <icon src="https://images.pluto.tv/series/609532f00c3a580013e2bc76/tile_1782270019302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612ce5214bb5790007ad3016" start="20261030033552 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30745,7 +30815,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Las ciudades más importantes francesas tienen una sección de investigación que se dedica exclusivamente a la resolución de crímenes y delitos más graves y complejos.</desc>
         <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1785922921413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61bb2814ac085a00074309a6" start="20261030023110 +0000" stop="20261030060000 +0000">
+    <programme channel="61bb2814ac085a00074309a6" start="20261030023110 +0000" stop="20261030032901 +0000">
+        <title>Unidad de investigación</title>
+        <desc>A bordo de una canoa en un lago se encuentra el cuerpo sin vida de Annabelle Renoir, instructora de un centro de ocio. Al mismo tiempo, Marion Meyer, una de las aprendices de preparación de la BAFA, está desaparecida.</desc>
+        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1785922921413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61bb2814ac085a00074309a6" start="20261030032901 +0000" stop="20261030060000 +0000">
         <title>Unidad de investigación</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30755,7 +30830,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Un grupo de jóvenes entra en un convento abandonado donde habitan fuerzas demoníacas.</desc>
         <icon src="https://images.pluto.tv/series/6a0b361bffc6644289c27933/tile_1779119643891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6267d4d1fb694f0007a6af0e" start="20261030022617 +0000" stop="20261030060000 +0000">
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261030022617 +0000" stop="20261030035217 +0000">
+        <title>La Mansión de los Horrores</title>
+        <desc>Un millonario ofrece 10 000 dólares a cinco personas que aceptan encerrarse en una casa de alquiler grande y espeluznante durante la noche con él y su esposa.</desc>
+        <icon src="https://images.pluto.tv/series/6114cd6adf179f00131991c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261030035217 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30765,7 +30845,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Los hombres de South Park están disgustados por la nueva moda femenina de los 'chichipedos' y se unen para prohibirlos.</desc>
         <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="628751bb7154a40007168843" start="20261030021841 +0000" stop="20261030060000 +0000">
+    <programme channel="628751bb7154a40007168843" start="20261030021841 +0000" stop="20261030024341 +0000">
+        <title>South Park: Pinewood Derby</title>
+        <desc>Randy y Stan descubren sin darse cuenta la velocidad warp, lo que permite que la Tierra se una a la Federación Galáctica de planetas, pero un gánster alienígena amenaza con estropearlo todo.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20261030024341 +0000" stop="20261030030841 +0000">
+        <title>South Park: Barbagorda</title>
+        <desc>Cartman se entera de que los piratas saquearon todas las riquezas de Somalia, por lo que se pone un parche en el ojo y se lleva a un variopinto equipo a África para ponerse a la acción.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20261030030841 +0000" stop="20261030060000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage_1755153575393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30785,7 +30875,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El asesinato de una pareja de ancianos conmociona a un pequeño pueblo de Nueva York. Una familia de Ohio busca a una mujer desaparecida. Dos psíquicos presenciaron todo lo sucedido.</desc>
         <icon src="https://images.pluto.tv/series/68a85924b76cf0ad37a58b1c/tile_1776979466274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20261030020038 +0000" stop="20261030060000 +0000">
+    <programme channel="64a3f200f238ce0008d47247" start="20261030020038 +0000" stop="20261030025140 +0000">
+        <title>Clarividentes</title>
+        <desc>Un adolescente de Arkansas ha sido secuestrado. En California, un joven desaparece sin dejar pistas. Cuando ambos casos se complican, las familias contactan con psíquicos para que les ayuden a encontrar a sus seres queridos.</desc>
+        <icon src="https://images.pluto.tv/series/68a85924b76cf0ad37a58b1c/tile_1776979466274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3f200f238ce0008d47247" start="20261030025140 +0000" stop="20261030034137 +0000">
+        <title>Wives with Knives</title>
+        <desc>Una joven marcada por traumas infantiles lucha por rehacer su vida. Conoce al hombre de sus sueños, pero, una vez comprometidos, la relación se desmorona. Es un juego peligroso de su palabra contra la de él, que acaba en un sangriento final.</desc>
+        <icon src="https://images.pluto.tv/series/66e3ee306ec6ad00136d205f/tile_1776173761841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3f200f238ce0008d47247" start="20261030034137 +0000" stop="20261030060000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30795,7 +30895,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Desencadenado por el rechazo de una novia, Ted Bundy acaba con la vida de diez mujeres.</desc>
         <icon src="https://images.pluto.tv/series/67977d75c10e600013fca086/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ddcbb14c5ed80008fad416" start="20261030023700 +0000" stop="20261030060000 +0000">
+    <programme channel="64ddcbb14c5ed80008fad416" start="20261030023700 +0000" stop="20261030033100 +0000">
+        <title>Ted Bundy: Serial Monster</title>
+        <desc>Tras ser admitido en la Facultad de Derecho de la Universidad de Utah, Bundy se muda a Salt Lake City y comienza una nueva serie de asesinatos. En Idaho, Utah y Colorado mata a once mujeres más.</desc>
+        <icon src="https://images.pluto.tv/series/67977d75c10e600013fca086/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ddcbb14c5ed80008fad416" start="20261030033100 +0000" stop="20261030060000 +0000">
         <title>Crimen &amp; Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30825,7 +30930,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Paige se encuentra transportada en el tiempo por un par de botas de la abuela a una época de amor libre y magia libremente practicada donde Paige realmente encaja.</desc>
         <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1785498481819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="657868a7a620e30008fdbfeb" start="20261030021006 +0000" stop="20261030060000 +0000">
+    <programme channel="657868a7a620e30008fdbfeb" start="20261030021006 +0000" stop="20261030025753 +0000">
+        <title>Embrujadas</title>
+        <desc>Después de que Piper tenga dudas sobre el futuro, Paige y Phoebe conjuran al &amp;quot;Señor Perfecto&amp;quot; como regalo de cumpleaños de Piper.</desc>
+        <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1785498481819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="657868a7a620e30008fdbfeb" start="20261030025753 +0000" stop="20261030034341 +0000">
+        <title>Embrujadas</title>
+        <desc>Richard, el novio de Paige, lanza un hechizo para librarse del mal karma y accidentalmente infecta a Phoebe con el mal karma de Mata Hari.</desc>
+        <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1785498481819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="657868a7a620e30008fdbfeb" start="20261030034341 +0000" stop="20261030060000 +0000">
         <title>Embrujadas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/featuredImage_1770028317031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30835,7 +30950,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Allison comienza a trabajar en la Corporación Lydecker. Disfruta del lujo, pero su primer encargo le revela que el hijo de su jefe esconde un siniestro secreto.</desc>
         <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578808014fbe400086e21bc" start="20261030020011 +0000" stop="20261030060000 +0000">
+    <programme channel="6578808014fbe400086e21bc" start="20261030020011 +0000" stop="20261030024652 +0000">
+        <title>Medium</title>
+        <desc>Allison lucha con su decisión de cambiar de trabajo. Al seguir teniendo visiones sobre un asesino en serie, se ve obligada a elegir entre cumplir con el contrato de su nuevo trabajo o compartir su información con la policía.</desc>
+        <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578808014fbe400086e21bc" start="20261030024652 +0000" stop="20261030033411 +0000">
+        <title>Medium</title>
+        <desc>Tras un desmayo, Allison investiga un cadáver hallado en una tumba poco profunda. Vuelve a desmayarse, pero los médicos no hallan causa. No logra despertar.</desc>
+        <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578808014fbe400086e21bc" start="20261030033411 +0000" stop="20261030060000 +0000">
         <title>Medium</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6578808014fbe400086e21bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30845,7 +30970,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Días antes de una carrera, Murdoch investiga la sospechosa muerte de un caballo favorito para ganar.</desc>
         <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1785920265352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6682bd9b8768aa0008f25be5" start="20261030021429 +0000" stop="20261030060000 +0000">
+    <programme channel="6682bd9b8768aa0008f25be5" start="20261030021429 +0000" stop="20261030030248 +0000">
+        <title>Los Misterios de Murdoch</title>
+        <desc>Ogden, Hart, Effie y Louise conocen a unas aventureras en el bosque que huyen de un asesino loco.</desc>
+        <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1785920265352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6682bd9b8768aa0008f25be5" start="20261030030248 +0000" stop="20261030060000 +0000">
         <title>Los misterios de Murdoch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/featuredImage_1764691773450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30855,7 +30985,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Un tornado, infestado de monstruos prehistóricos, se ha formado en el Triángulo de las Bermudas y se dirige hacia tierra firme. Ahora la ciudad debe luchar para sobrevivir contra estas criaturas mortales.</desc>
         <icon src="https://images.pluto.tv/series/688202cb8eef10068fae0ec9/tile_1778801771800.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20261030023521 +0000" stop="20261030060000 +0000">
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261030023521 +0000" stop="20261030041305 +0000">
+        <title>Deja Vu</title>
+        <desc>Tres hermanos viajan a un río de Oregón para esparcir las cenizas de su padre muerto. Allí, uno de sus hijos desaparece. El hecho despierta el recuerdo de un secuestro ocurrido en ese mismo lugar 30 años atrás. Para hallarlo, deberá enfrentar su pasado.</desc>
+        <icon src="https://images.pluto.tv/series/6abea8151d19e52984343aa4/tile_1790880844099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261030041305 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Gore &amp; Slasher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30875,7 +31010,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Loïc Lardenois aparece en un bosque, con el cráneo destrozado y un arma de la segunda guerra mundial en la mano.</desc>
         <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71f8ee5de930008016f83" start="20261030021634 +0000" stop="20261030060000 +0000">
+    <programme channel="66d71f8ee5de930008016f83" start="20261030021634 +0000" stop="20261030031233 +0000">
+        <title>Alice Nevers</title>
+        <desc>Alice Nevers investiga el envenenamiento de una niña, que se desmayó después de ganar un concurso de belleza. Tras sospechar que otra candidata quiso deshacerse de ella, Alice descubre un mundo donde las sonrisas y las lentejuelas ocultan otros intereses.</desc>
+        <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71f8ee5de930008016f83" start="20261030031233 +0000" stop="20261030060000 +0000">
         <title>Alice Nevers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/featuredImage_1730816120443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30885,7 +31025,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El grupo se abre paso hasta el invernadero, donde Odegard está cultivando el Lote 47.</desc>
         <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68345650e8377f86acdeda83" start="20261030020556 +0000" stop="20261030060000 +0000">
+    <programme channel="68345650e8377f86acdeda83" start="20261030020556 +0000" stop="20261030025439 +0000">
+        <title>Z Nation</title>
+        <desc>Murphy debe enfrentarse a su pasado cuando Serena lo encuentra. El equipo se topa con una granja oculta.</desc>
+        <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68345650e8377f86acdeda83" start="20261030025439 +0000" stop="20261030034352 +0000">
+        <title>Z Nation</title>
+        <desc>Murphy se separa del grupo por miedo a que se lleven el bebé… y la maten.</desc>
+        <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68345650e8377f86acdeda83" start="20261030034352 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Series de Terror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68345650e8377f86acdeda83/featuredImage_1751021711623.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30895,7 +31045,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La vida de un agente retirado da un vuelco cuando descubre que es el chivo expiatorio de un inminente asesinato presidencial planeado por la CIA.</desc>
         <icon src="https://images.pluto.tv/series/68e4c88cd279ff4805205108/tile_1759837428208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d566603d3a9580eb461251" start="20261030025558 +0000" stop="20261030060000 +0000">
+    <programme channel="68d566603d3a9580eb461251" start="20261030025558 +0000" stop="20261030040951 +0000">
+        <title>Ju-on (La maldición)</title>
+        <desc>Un profesor visita la casa de uno de sus alumnos después de que el chico desaparece, solo para encontrar una excusa horrorosa para su ausencia de la escuela.</desc>
+        <icon src="https://images.pluto.tv/series/6a0b37804a77e2cd15d60872/tile_1779120001360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d566603d3a9580eb461251" start="20261030040951 +0000" stop="20261030060000 +0000">
         <title>Paramount Network de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d566603d3a9580eb461251/featuredImage_1762183959187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30905,7 +31060,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La búsqueda de las Bolas de Dragón va viento en popa hasta que Bulma, Krilín y Son Gohan caen en una inesperada trampa</desc>
         <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20261030022216 +0000" stop="20261030060000 +0000">
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20261030022216 +0000" stop="20261030024826 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Los tres viajeros han sido víctimas de un engaño, ¡dos extraterrestres les han tomado el pelo! Gohan y Krilín tendrán que reunir todo su ingenio para engañar a los villanos y marcharse del inhóspito planeta.</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20261030024826 +0000" stop="20261030031436 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Esta vez nuestros amigos llegan sanos y salvos al auténtico Namek, el planeta en que esperan encontrar las Bolas de Dragón para resucitar al Todopoderoso y tener de nuevo Bolas de Dragón en la Tierra</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20261030031436 +0000" stop="20261030060000 +0000">
         <title>Dragon Ball Z</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage_1775550158845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30915,7 +31080,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Mientras se lleva a cabo l juicio de David, Los investigadores se enteran de que Victor, de 9 años, tuvo una sobredosis en el patio de su escuela mientras jugaba. ¿Por qué alguien intentó envenenar al niño o cómo un niño de esa edad pudo conseguir drogas?</desc>
         <icon src="https://images.pluto.tv/series/699d99c83a09dc6778052bde/tile_1771936201013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6964d2179ba4ac18051a18ce" start="20261030020250 +0000" stop="20261030060000 +0000">
+    <programme channel="6964d2179ba4ac18051a18ce" start="20261030020250 +0000" stop="20261030030552 +0000">
+        <title>Leo Mattei: brigada de protección</title>
+        <desc>Mientras se lleva a cabo l juicio de David, Los investigadores se enteran de que Victor, de 9 años, tuvo una sobredosis en el patio de su escuela mientras jugaba. ¿Por qué alguien intentó envenenar al niño o cómo un niño de esa edad pudo conseguir drogas?</desc>
+        <icon src="https://images.pluto.tv/series/699d99c83a09dc6778052bde/tile_1771936201013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964d2179ba4ac18051a18ce" start="20261030030552 +0000" stop="20261030060000 +0000">
         <title>Léo Mattéï: Brigada de protección</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/featuredImage_1777976845815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30925,7 +31095,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La honorable señorita Phryne Fisher ha sido escogida para mejorar a un grupo de doncellas de las flores para el festival floral anual.</desc>
         <icon src="https://images.pluto.tv/series/698f1eebc50894a1407e9eb6/tile_1770987244223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43d63071cbfff7dca61d23" start="20261030025756 +0000" stop="20261030060000 +0000">
+    <programme channel="6a43d63071cbfff7dca61d23" start="20261030025756 +0000" stop="20261030035921 +0000">
+        <title>Los misteriosos asesinatos de Miss Fisher</title>
+        <desc>Phryne investiga la muerte de una joven trabajadora en un “accidente” en una fábrica y enseguida se da cuenta de que la muerte de la mujer puede no haber sido debida a la mala suerte, como piensa la policía</desc>
+        <icon src="https://images.pluto.tv/series/698f1eebc50894a1407e9eb6/tile_1770987244223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43d63071cbfff7dca61d23" start="20261030035921 +0000" stop="20261030060000 +0000">
         <title>Los Misteriosos asesinatos de Miss Fisher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/featuredImage_1789398338823.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30935,7 +31110,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La familia Hidalgo está muy preocupada por el estado del Nando, que ha sufrido un accidente de automóvil. El chico está inconsciente en el hospital y los médicos consideran vital que recobre el conocimiento en las siguientes horas.</desc>
         <icon src="https://images.pluto.tv/series/5f562db9f7db51001a3c5acc/tile_1774022761087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261030021022 +0000" stop="20261030060000 +0000">
+    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261030021022 +0000" stop="20261030025710 +0000">
+        <title>Citas</title>
+        <desc>A pesar de las malas experiencias acumuladas, Piñón y Imma siguen buscando alguien especial.</desc>
+        <icon src="https://images.pluto.tv/series/68bef3b899a2f3e74a6dc31a/tile_1793230904291.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261030025710 +0000" stop="20261030034354 +0000">
+        <title>Citas</title>
+        <desc>Blanca ha decidido contarle a Martín que está embarazada de él, pero no sabe cómo reaccionará ante esta noticia.</desc>
+        <icon src="https://images.pluto.tv/series/68bef3b899a2f3e74a6dc31a/tile_1793230904291.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261030034354 +0000" stop="20261030060000 +0000">
         <title>Series made in Spain de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/featuredImage_1790240978580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30945,7 +31130,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
         <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Rebelde</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/featuredImage_1789113326784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30955,7 +31150,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Visita al Asador Iñaki en Málaga junto a Antonio Gutierrez, probando chuletones, pulpo a la brasa, solomillos de buey y wagyu, tartar de atún y más platos para valorar si merece la pena.</desc>
         <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261030022308 +0000" stop="20261030060000 +0000">
+    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261030022308 +0000" stop="20261030030444 +0000">
+        <title>Cenando con Pablo</title>
+        <desc>Pablo y Peldanyos prueban el famoso buffet libre del Hotel InterContinental de Madrid, un hotel de 5 estrellas, que cuesta 94€ por persona, para descubrir si realmente merece la pena.</desc>
+        <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261030030444 +0000" stop="20261030060000 +0000">
         <title>Cenando con Pablo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/featuredImage_1789400793549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30985,7 +31185,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Curro Jiménez, haciéndose pasar por un indiano, trata de apoderarse de los tributos que una bella marquesa recauda para un general francés.</desc>
         <icon src="https://images.pluto.tv/series/5f4f4830b9a18c001a4c536d/tile_1774022761044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acd36779de70007a680d1" start="20261030024700 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1acd36779de70007a680d1" start="20261030024700 +0000" stop="20261030035300 +0000">
+        <title>Curro Jiménez: El secuestro</title>
+        <desc>El hijo de un rico hacendado ha sido raptado y el padre recibe una petición de rescate firmada por Curro Jiménez, quien niega ser el autor del secuestro, también visita a la madre del niño, con quien mantuvo un romance y le promete ir a buscarlo.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f4830b9a18c001a4c536d/tile_1774022761044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acd36779de70007a680d1" start="20261030035300 +0000" stop="20261030060000 +0000">
         <title>Curro Jiménez</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30995,7 +31200,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Mike pensaba que su Pick-up K10 de 1967 solo necesitaba pintura, Dan se da cuenta rápidamente de que el vehículo necesita mucho más para ser el vehículo seguro y confiable que él quiere.</desc>
         <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1782730081084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080345ebb49b90007ce0baf" start="20261030020800 +0000" stop="20261030060000 +0000">
+    <programme channel="6080345ebb49b90007ce0baf" start="20261030020800 +0000" stop="20261030025700 +0000">
+        <title>FantomWorks: Servicio postal Fantom Works</title>
+        <desc>Ron y Valerie quieren que Dan restaure su Jeep Willys Fleet Van de 1963, pero los problemas van más allá, oculto en lo aparente.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1782730081084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20261030025700 +0000" stop="20261030034600 +0000">
+        <title>FantomWorks: Fácil y rápido</title>
+        <desc>John cree que su Corvette de 1958 está casi original, pero Dan se da cuenta de que una combinación de piezas de mala calidad que no coinciden y malas reparaciones, le han causado muchos problemas.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1782730081084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20261030034600 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Motor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31005,7 +31220,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El futuro de la monarquía inglesa descansa en los hombros de los mosqueteros después de que Luis ordena recuperar las joyas que le faltan a la reina de Inglaterra.</desc>
         <icon src="https://images.pluto.tv/series/61163dbead40550013ab41ac/tile_1769453298594.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dafb9a0df1ba000758d37b" start="20261030021510 +0000" stop="20261030060000 +0000">
+    <programme channel="60dafb9a0df1ba000758d37b" start="20261030021510 +0000" stop="20261030031610 +0000">
+        <title>Los Mosqueteros: Para jugar al rey</title>
+        <desc>El Louvre se ve amenazado cuando Grimaud y Feron organizan una ambiciosa irrupción de Chatelet. ¿Los mosqueteros buscan el peligro en los lugares equivocados?</desc>
+        <icon src="https://images.pluto.tv/series/61163dbead40550013ab41ac/tile_1769453298594.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dafb9a0df1ba000758d37b" start="20261030031610 +0000" stop="20261030060000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/featuredImage_1770367705306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31015,7 +31235,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>César Millán, "El encantador de perros", aborda problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, sino de un entrenamiento de gente para que adiestren perros.</desc>
         <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1776156120888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e45687313c5f0007bc8e94" start="20261030022930 +0000" stop="20261030060000 +0000">
+    <programme channel="60e45687313c5f0007bc8e94" start="20261030022930 +0000" stop="20261030032330 +0000">
+        <title>El encantador de perros: Seven, Macy &amp; Lex</title>
+        <desc>César Millán, "El encantador de perros", aborda problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, sino de un entrenamiento de gente para que adiestren perros.</desc>
+        <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1776156120888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e45687313c5f0007bc8e94" start="20261030032330 +0000" stop="20261030060000 +0000">
         <title>El encantador de perros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31025,7 +31250,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El ferrocarril se convierte en el centro de atención cuando Endeavour investiga la desaparición de una mujer de la zona, con los temores iniciales de que se relacione con el asesinato no resuelto de un adolescente, muerto varios años antes.</desc>
         <icon src="https://images.pluto.tv/series/63354cc7b2e75600132a0517/tile_1785923303487.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619b9f16b8fee4000832d447" start="20261030021100 +0000" stop="20261030060000 +0000">
+    <programme channel="619b9f16b8fee4000832d447" start="20261030021100 +0000" stop="20261030035500 +0000">
+        <title>El Detective Endeavour: Colores</title>
+        <desc>Una sesión de fotos en una base militar se vuelve siniestra cuando una de las modelos aparece muerta. Pero la investigación se complica cuando se revela que Sam Thursday está involucrado.</desc>
+        <icon src="https://images.pluto.tv/series/63354cc7b2e75600132a0517/tile_1785923303487.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619b9f16b8fee4000832d447" start="20261030035500 +0000" stop="20261030060000 +0000">
         <title>El Detective Endeavour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31035,7 +31265,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Frente a la ira de Joe, Rod y Cory viajan al Reino Unido para realizar reparaciones urgentes en un avión cisterna de agua.</desc>
         <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1776174841582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b9edc4a4ca6100070bb407" start="20261030024918 +0000" stop="20261030060000 +0000">
+    <programme channel="61b9edc4a4ca6100070bb407" start="20261030024918 +0000" stop="20261030033908 +0000">
+        <title>Pilotos Del Ártico</title>
+        <desc>Mikey se entrena para sobrevivir en el Alto Ártico con los Rangers Canadienses. La Fuerza Aérea invade el hangar de Chuck.</desc>
+        <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1776174841582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b9edc4a4ca6100070bb407" start="20261030033908 +0000" stop="20261030060000 +0000">
         <title>Ice Pilots</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31045,7 +31280,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Kimberly continúa teniendo extraños delirios como Betsy cuando incendia el sofá de la casa de la playa y, finalmente, acude a Peter en busca de ayuda.</desc>
         <icon src="https://images.pluto.tv/series/62ecd079a0cb07001ac83991/tile_1778883122675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245c03922d9d4000760d205" start="20261030022405 +0000" stop="20261030060000 +0000">
+    <programme channel="6245c03922d9d4000760d205" start="20261030022405 +0000" stop="20261030031205 +0000">
+        <title>Melrose Place: El triunfo de Bill</title>
+        <desc>Billy recurre a tácticas duras nuevamente durante una convención de negocios cuando roba algunas fotos comprometedoras de la actriz Julie Newmar.</desc>
+        <icon src="https://images.pluto.tv/series/62ecd079a0cb07001ac83991/tile_1778883122675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245c03922d9d4000760d205" start="20261030031205 +0000" stop="20261030060000 +0000">
         <title>Melrose Place</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245c03922d9d4000760d205/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31055,7 +31295,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
         <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1780400521502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6335a6b6e6f7a600076e589e" start="20261030020900 +0000" stop="20261030060000 +0000">
+    <programme channel="6335a6b6e6f7a600076e589e" start="20261030020900 +0000" stop="20261030023200 +0000">
+        <title>Auction Hunters: Dólares por dólares</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1780400521502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20261030023200 +0000" stop="20261030025500 +0000">
+        <title>Auction Hunters: El negocio del whisky</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1780400521502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20261030025500 +0000" stop="20261030031800 +0000">
+        <title>Auction Hunters: Haff-Inado</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1780400521502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20261030031800 +0000" stop="20261030060000 +0000">
         <title>Cazasubastas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31065,17 +31320,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Bill y Sam son dos hermanos muy diferentes. Bill decide separarse de Sam y emprende un viaje a Denver, en donde encuentra trabajo como conductor de una diligencia. Por su parte, Sam entra en contacto con un maleante, dueño de un salón.</desc>
         <icon src="https://images.pluto.tv/series/655b7a102f9f5b0013e61adb/tile_1782275771198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6385e82900ab2e000768a058" start="20261030025648 +0000" stop="20261030060000 +0000">
-        <title>Pluto TV Western</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6385e82900ab2e000768a058/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6385e82900ab2e000768a058" start="20261030025648 +0000" stop="20261030060510 +0000">
+        <title>Coraje de mujer</title>
+        <desc>La resistencia, amor y, sobre todo, firme determinación femenina, a lo largo de casi cincuenta años de agitación a mediados del siglo XIX, desde la tumultuosa Revolución de Texas hasta el primer movimiento por el sufragio femenino.</desc>
+        <icon src="https://images.pluto.tv/series/655b5c8b12fb500013177dcf/tile_1769187961892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6475bfec536e0c0008858e9f" start="20261030004652 +0000" stop="20261030020714 +0000">
         <title>Sueña Sin Límites</title>
         <desc>Hye-mi, Sam-dong y Oh-hyuk ir de viaje escolar a Japón. Visitaron el salón de bodas para el trabajo en la canción en cuanto llagaron a Japón. No saben por qué, están nerviosos por el ambiente agitado, y cometen el error de traer la partitura equivocada.</desc>
         <icon src="https://images.pluto.tv/series/6881f4a88eef10068fa419c8/tile_1769020560981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6475bfec536e0c0008858e9f" start="20261030020714 +0000" stop="20261030060000 +0000">
+    <programme channel="6475bfec536e0c0008858e9f" start="20261030020714 +0000" stop="20261030032540 +0000">
+        <title>Sueña Sin Límites</title>
+        <desc>Hongju le canta a Nana a su antojo con la ayuda de JB y Hae-seong, y la imagen de Hongju se difunde por todo Internet. Mientras tanto, después de escuchar rumores de que Rian, Nana y Siwoo serían expulsados, los ídolos deciden disolver el grupo.</desc>
+        <icon src="https://images.pluto.tv/series/6881f4a88eef10068fa419c8/tile_1769020560981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6475bfec536e0c0008858e9f" start="20261030032540 +0000" stop="20261030060000 +0000">
         <title>Pluto TV K-Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31085,7 +31345,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Mover una enorme losa de jade pone a prueba el antiguo equipo de la mina y la paciencia de Josh.</desc>
         <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65254e8d81f9420008342cee" start="20261030020900 +0000" stop="20261030060000 +0000">
+    <programme channel="65254e8d81f9420008342cee" start="20261030020900 +0000" stop="20261030023329 +0000">
+        <title>La Fiebre del Jade: Modo Pánico</title>
+        <desc>Arrastrar una roca de 20 toneladas por el peligroso camino para salir de la mina resulta demasiado para su viejo camión 6-Pack.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20261030023329 +0000" stop="20261030025758 +0000">
+        <title>La Fiebre del Jade: Cavando Profundo</title>
+        <desc>Robin descubre una enorme lente de jade en Two Mile, pero podría ser demasiado grande para que su pequeña operación la excave.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20261030025758 +0000" stop="20261030032227 +0000">
+        <title>La Fiebre del Jade: Navidad en Agosto</title>
+        <desc>Cuando una extraña tormenta de nieve en agosto deja a Claudia y Robin varados en Two Mile, Gary y Garon intentan salvar el día conduciendo a través de la tormenta.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20261030032227 +0000" stop="20261030060000 +0000">
         <title>La fiebre del Jade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65254e8d81f9420008342cee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31095,7 +31370,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Una noche familiar de ver fútbol termina en una pelea. Un ladrón acaba con la buena voluntad de la policía al encontrarlo con artículos robados. Un hombre admite no poder escapar de la policía al ser atrapado.</desc>
         <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6554bd45aa9ffb00088e5589" start="20261030020249 +0000" stop="20261030060000 +0000">
+    <programme channel="6554bd45aa9ffb00088e5589" start="20261030020249 +0000" stop="20261030022603 +0000">
+        <title>Cops: Compañía de tres</title>
+        <desc>Un sospechoso no logra convencer a los oficiales que tenía buen motivo al tratar de escapar. Un compañero entrometido impide que una pareja deje sus malos hábitos. Un esposo y esposa pelean por su bebé.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20261030022603 +0000" stop="20261030024918 +0000">
+        <title>Cops: Por la ventana</title>
+        <desc>Un incendio en la cocina crece por toda la casa y atrapa a un hombre en el último piso. Un fugitivo finge tener calma pero sus nervios lo delatan. Un sospechoso pide que los agentes no sean duros con él.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20261030024918 +0000" stop="20261030031233 +0000">
+        <title>Cops: Goma quemada</title>
+        <desc>Varios intentos para detener a un conductor fugitivo valen la pena. Un conductor se enoja cuando la policía va descubriendo su secreto. La policía se separa para capturar a un joven ciclista.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20261030031233 +0000" stop="20261030060000 +0000">
         <title>COPS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31105,7 +31395,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Dos novias arrastran cargas emocionales en su búsqueda del vestido de novia perfecto.</desc>
         <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578836cdfed030008ce5bdb" start="20261030021346 +0000" stop="20261030060000 +0000">
+    <programme channel="6578836cdfed030008ce5bdb" start="20261030021346 +0000" stop="20261030023734 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>Una cita se ve amenazada cuando una novia que juega a disfrazarse se enfrenta a la realidad de elegir un vestido.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20261030023734 +0000" stop="20261030030121 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>El drama de mamá llega a su punto álgido cuando la madre de una novia se siente culpable y otra se niega a ceder en su amor por el vestido de fiesta.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20261030030121 +0000" stop="20261030060000 +0000">
         <title>Sí quiero ese vestido</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31115,7 +31415,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Unos Okupas han entrado en casa de David. Sócrates está convencido de que su muerte es inminente. Isabel ha decidido volver a trabajar. Miriam está casi recuperada y se siente atraída por Iñigo. Nico y Elena se distancian.</desc>
         <icon src="https://images.pluto.tv/series/65ca3978ecf2e50013bcbe31/tile_1769195881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b91e530d9ab40008340d8d" start="20261030020203 +0000" stop="20261030060000 +0000">
+    <programme channel="65b91e530d9ab40008340d8d" start="20261030020203 +0000" stop="20261030023631 +0000">
+        <title>Al salir de Clase: Un encuentro lleno de emoción</title>
+        <desc>Patricia, una chica de 17 años, se ha presentado a Manu, por sorpresa, asegurándole que es su hija. Él al principio desconfía de ella, pero los datos que le presenta son tan verosímiles que poco a poco le van haciendo cambiar de opinión.</desc>
+        <icon src="https://images.pluto.tv/series/65ca3978ecf2e50013bcbe31/tile_1769195881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b91e530d9ab40008340d8d" start="20261030023631 +0000" stop="20261030030813 +0000">
+        <title>Al salir de Clase: Tres por uno</title>
+        <desc>Alex y David se disputan la simpatía de Miriam. Los dos aspiran salir con ella, pero ella les trata como a dos buenos amigos. Ni uno ni el otro tienen en cuenta que en esta guerra de celos hay un tercero en discordia: Iñigo.</desc>
+        <icon src="https://images.pluto.tv/series/65ca3978ecf2e50013bcbe31/tile_1769195881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b91e530d9ab40008340d8d" start="20261030030813 +0000" stop="20261030060000 +0000">
         <title>Al salir de clase</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31125,7 +31435,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Yasmina y Andrea son gemelas. Tienen 19 y son originarias de Mieres (Asturias), aunque pasan temporadas en Gijón.</desc>
         <icon src="https://images.pluto.tv/series/6026836f74758b001429df0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bd0f53dc10a40008e68b96" start="20261030022341 +0000" stop="20261030060000 +0000">
+    <programme channel="65bd0f53dc10a40008e68b96" start="20261030022341 +0000" stop="20261030025441 +0000">
+        <title>MotorStories: El Porsche de tus sueños en San Francisco</title>
+        <desc>El fan de los Porsche Marco Wendlandt hace realidad su sueño: conducir un Porsche 911 coupé de 1984. Con la ayuda del gran Mike, un vendedor de automóviles de Los Ángeles, encuentra el coche de sus sueños en San Francisco.</desc>
+        <icon src="https://images.pluto.tv/series/609b7d1d5ff04300139ce984/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20261030025441 +0000" stop="20261030032541 +0000">
+        <title>MotorStories: El forajido de Porsche, Magnus Walker - Los Ángeles</title>
+        <desc>Marco realiza un increíble viaje por carreteras californianas. Con su recién adquirido Porsche 911 coupé del 84, se dirige a Los Ángeles para conocer a uno de los entusiastas de Porsche más conocidos del mundo: Magnus Walker.</desc>
+        <icon src="https://images.pluto.tv/series/609b7d1d5ff04300139ce984/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20261030032541 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Gasolina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/featuredImage_1747382174478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31135,7 +31455,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El equipo va contra reloj cuando tratan de identificar al asesino pedofilo de un centro asistencial.</desc>
         <icon src="https://images.pluto.tv/series/61152a80975c210013c1b21e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf6ab58145cb0008129ca8" start="20261030025507 +0000" stop="20261030060000 +0000">
+    <programme channel="65cf6ab58145cb0008129ca8" start="20261030025507 +0000" stop="20261030035607 +0000">
+        <title>Caso cerrado: El último corte, parte 1</title>
+        <desc>Las celabraciones de Mel por su promoción a sargento se ven interrumpidas cuando un descubren un cuerpo momificado en un cotenedor de basura.</desc>
+        <icon src="https://images.pluto.tv/series/61152a80975c210013c1b21e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf6ab58145cb0008129ca8" start="20261030035607 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Series criminales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31145,7 +31470,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La hermana Monica Joan tiene la clave para diagnosticar una misteriosa enfermedad y Chummy llama a sus conexiones reales.</desc>
         <icon src="https://images.pluto.tv/series/61152953975c210013c18526/tile_1775036760448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65dded6966eec80008947157" start="20261030023157 +0000" stop="20261030060000 +0000">
+    <programme channel="65dded6966eec80008947157" start="20261030023157 +0000" stop="20261030033157 +0000">
+        <title>Llama a la comadrona: Episodio 2</title>
+        <desc>Una recién comprometida Jenny se enfrenta a su caso más desafiante hasta el momento y Cynthia presenta una nueva práctica de parto a las madres embarazadas de Popler.</desc>
+        <icon src="https://images.pluto.tv/series/61152953975c210013c18526/tile_1775036760448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65dded6966eec80008947157" start="20261030033157 +0000" stop="20261030060000 +0000">
         <title>¡Llama a la Comadrona!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65dded6966eec80008947157/featuredImage_1775051870040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31155,7 +31485,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Natalia quiere buscar a “La Mujer de Judas” para contar su leyenda. Se siente irresistiblemente atraída hacia esa mujer, Altagracia del Toro, quien hace 23 años fue acusada de asesinar a un sacerdote.</desc>
         <icon src="https://images.pluto.tv/series/638f253f65666e00148043e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a69daa0a74e00087a1c72" start="20261030021630 +0000" stop="20261030060000 +0000">
+    <programme channel="662a69daa0a74e00087a1c72" start="20261030021630 +0000" stop="20261030023930 +0000">
+        <title>Alternatino: La Cita</title>
+        <desc>Arturo sale con una mujer obsesionada con su condición de latino; un padre lucha por tener una conversación sexual con su hijo adolescente; y la industria turística guatemalteca intenta una nueva táctica de publicidad.</desc>
+        <icon src="https://images.pluto.tv/series/5fb782c8e8b7e6001a753324/tile_1780304041252.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a69daa0a74e00087a1c72" start="20261030023930 +0000" stop="20261030033219 +0000">
+        <title>Ángel Rebelde</title>
+        <desc>Balbina está muy nerviosa mientras revisa los papeles pero finalmente se da cuenta que tiene en las manos las pruebas del delito de Enriqueta, pero se asusta y regresa todo a la caja fuerte.</desc>
+        <icon src="https://images.pluto.tv/series/681c763a30b839eca57e1b22/tile_1746695765341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a69daa0a74e00087a1c72" start="20261030033219 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Telenovelas Clásicas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31165,7 +31505,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Cherif es secuestrado y debe ayudar a un cómplice de su padre a escapar de prisión para salvar a su hija Sarah.</desc>
         <icon src="https://images.pluto.tv/series/672dda1f4ad8560013650c57/tile_1774007663016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71c656b63480008cf0427" start="20261030023205 +0000" stop="20261030060000 +0000">
+    <programme channel="66d71c656b63480008cf0427" start="20261030023205 +0000" stop="20261030033705 +0000">
+        <title>Cherif</title>
+        <desc>Mientras Sarah se prepara para ir a Boston, Cherif descubre un cadáver en un coche. Adeline debe infiltrarse en un juego de rol para resolver el caso.</desc>
+        <icon src="https://images.pluto.tv/series/672dda1f4ad8560013650c57/tile_1774007663016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71c656b63480008cf0427" start="20261030033705 +0000" stop="20261030060000 +0000">
         <title>Cherif</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71c656b63480008cf0427/featuredImage_1730321215739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31175,7 +31520,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Un accidente de tráfico fatal revela una verdad impactante, y el romance de Andy y el inspector Luke Callaghan se complica cuando discrepan sobre el manejo de un testigo de asesinato.</desc>
         <icon src="https://images.pluto.tv/series/67f3b4685c4a51b28b3213fc/tile_1779646321837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6745f0643a61d40008a61510" start="20261030020207 +0000" stop="20261030060000 +0000">
+    <programme channel="6745f0643a61d40008a61510" start="20261030020207 +0000" stop="20261030025112 +0000">
+        <title>Rookie Blue</title>
+        <desc>Una ola de calor causa estragos en la ciudad, que se multiplican ante el temor de un violador en serie que anda suelto. Mientras, un apagón obliga a Andy a enfrentarse a un cruel agresor.</desc>
+        <icon src="https://images.pluto.tv/series/67f3b4685c4a51b28b3213fc/tile_1779646321837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6745f0643a61d40008a61510" start="20261030025112 +0000" stop="20261030033916 +0000">
+        <title>Rookie Blue</title>
+        <desc>Andy y Chris investigan una paliza en un club. Cuando las pistas apuntan a un policía, deben tomar una decisión que pondrá a prueba su lealtad al cuerpo y puede hacer peligrar sus carreras.</desc>
+        <icon src="https://images.pluto.tv/series/67f3b4685c4a51b28b3213fc/tile_1779646321837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6745f0643a61d40008a61510" start="20261030033916 +0000" stop="20261030060000 +0000">
         <title>Rookie Blue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6745f0643a61d40008a61510/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31185,7 +31540,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Una nueva obra de teatro llega a la villa. Satur intenta conseguir un papel para ganarse la admiración de su hijo. Durante la representación el comisario es secuestrado por unos bandoleros y águila roja tendrá que tomar una difícil decisión.</desc>
         <icon src="https://images.pluto.tv/series/6888a410cb15389834e29f61/tile_1769020921325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6812206e1b3e3be031a5c363" start="20261030025720 +0000" stop="20261030060000 +0000">
+    <programme channel="6812206e1b3e3be031a5c363" start="20261030025720 +0000" stop="20261030042250 +0000">
+        <title>Águila Roja</title>
+        <desc>Las investigaciones de águila roja le llevan a descubrir a un chico que podría ser su hermano desaparecido. Al mismo tiempo tendrá que intervenir, junto con satura, cuando empiezan a aparecer cadáveres en el bosque.</desc>
+        <icon src="https://images.pluto.tv/series/6888a410cb15389834e29f61/tile_1769020921325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6812206e1b3e3be031a5c363" start="20261030042250 +0000" stop="20261030060000 +0000">
         <title>Águila Roja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/featuredImage_1754647875896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31195,7 +31555,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La madre de Gerard felicita a Merlí por cómo imparte las clases y por haber animado a su hijo. Llega una nueva alumna a clase: Mónica.</desc>
         <icon src="https://images.pluto.tv/series/6821cc400f8298da56fd1a83/tile_1774007280996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="683457aebbc703dfd45a89eb" start="20261030022035 +0000" stop="20261030060000 +0000">
+    <programme channel="683457aebbc703dfd45a89eb" start="20261030022035 +0000" stop="20261030031509 +0000">
+        <title>Merlí</title>
+        <desc>Bruno y Polo estudian juntos el examen de catalán, pero este encuentro termina mal.</desc>
+        <icon src="https://images.pluto.tv/series/6821cc400f8298da56fd1a83/tile_1774007280996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457aebbc703dfd45a89eb" start="20261030031509 +0000" stop="20261030060000 +0000">
         <title>Merlí</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/featuredImage_1749718300548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31205,7 +31570,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Los modelos prueban sus habilidades actorales al competir por un papel sin diálogo en una serie de televisión. Una sesión fotográfica en hielo se vuelve gélida después de que se escuchan comentarios hirientes en la casa.</desc>
         <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20261030021107 +0000" stop="20261030060000 +0000">
+    <programme channel="686cd84603ad75cfd132d672" start="20261030021107 +0000" stop="20261030025842 +0000">
+        <title>America's Next Top Model</title>
+        <desc>Los modelos hacen equipo para un reto de una sesión fotográfica con la juez Kelly Cutrone, lo que da por resultado que dos modelos reconozcan la necesidad de hacer una pausa en su relación personal.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd84603ad75cfd132d672" start="20261030025842 +0000" stop="20261030034617 +0000">
+        <title>America's Next Top Model</title>
+        <desc>Miss J ofrece a algunos modelos selectos una sesión privada de pasarela para apoyarlos en la Semana de la Moda, en la que los modelos tienen el desafío de conseguir desfiles de moda con diferentes diseñadores, como Betsey Johnson.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd84603ad75cfd132d672" start="20261030034617 +0000" stop="20261030060000 +0000">
         <title>America's Next Top Model</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage_1751963785439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31225,7 +31600,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Francisco Zea narra las malas decisiones de unos presuntos delincuentes, la unión de los vecinos es fundamental en una persecución y un presunto ladrón con poca suerte intenta robar una moto.</desc>
         <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1776979452830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68adc697116b783a33f99e6c" start="20261030020056 +0000" stop="20261030060000 +0000">
+    <programme channel="68adc697116b783a33f99e6c" start="20261030020056 +0000" stop="20261030023131 +0000">
+        <title>Captura exitosa: Episodio 16</title>
+        <desc>Francisco Zea narra una persecución de película de un tráiler robado, un robo a un supermercado con sabor a traición, una persecución en moto a toda velocidad a la luz de día.</desc>
+        <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1776979452830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20261030023131 +0000" stop="20261030025526 +0000">
+        <title>Captura exitosa: Episodio 17</title>
+        <desc>Francisco Zea narra la persecución a una banda que roba viviendas, el enfrentamiento a toda velocidad de un auto deportivo y una patrulla y el rescate de una mujer a punto de quitarse la vida.</desc>
+        <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1776979452830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20261030025526 +0000" stop="20261030032025 +0000">
+        <title>Fronteras peligrosas de Latinoamerica</title>
+        <desc>En el Aeropuerto Internacional José María Córdova, las fuerzas de seguridad colombianas extreman las medidas de seguridad contra el delito organizado. En el Puente de la Amistad, un señor es descubierto con una gran cantidad de armas.</desc>
+        <icon src="https://images.pluto.tv/series/68b0767e9889a990ed759f88/tile_1777997882316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20261030032025 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Impacto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/featuredImage_1760448744320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31235,7 +31625,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Julio llama a Patricio para preguntarle por qué está siguiendo a Rosaura. Él le dice que le dispare y acabe con ella. Él dispara pero aparentemente le dio a un caucho.</desc>
         <icon src="https://images.pluto.tv/series/66545dc2e42c230013c4f6fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c5100c3d2597380f0f6422" start="20261030025134 +0000" stop="20261030060000 +0000">
+    <programme channel="69c5100c3d2597380f0f6422" start="20261030025134 +0000" stop="20261030034733 +0000">
+        <title>Gata Salvaje: Episodio 52</title>
+        <desc>Eduarda y Eva le cuentan a Camelia de la supuesta noche de amor que tuvo Eva con Luis Mario. Doña Cruz se queja de que su nieta y Gabriela ya no la visitan.</desc>
+        <icon src="https://images.pluto.tv/series/66545dc2e42c230013c4f6fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c5100c3d2597380f0f6422" start="20261030034733 +0000" stop="20261030060000 +0000">
         <title>Gata salvaje</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/featuredImage_1777990194313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31245,7 +31640,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Acompañaremos a Alaska y Mario al Casino de la Gran Vía de Madrid, donde Mario, Olvido, y sus 'amigas' intentarán aumentar el presupuesto para el festival de música que Topacio está organizando.</desc>
         <icon src="https://images.pluto.tv/series/64214d00a659cb001a0d682b/tile_1779370921377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c51060ed1b1f1acb5092dc" start="20261030022700 +0000" stop="20261030060000 +0000">
+    <programme channel="69c51060ed1b1f1acb5092dc" start="20261030022700 +0000" stop="20261030031100 +0000">
+        <title>Alaska y Mario: Vacaciones en Ibiza</title>
+        <desc>Alaska y Mario están terminando de decorar la casa azul con la ayuda del padre de Mario. La pareja visitará a Silvia Superstar, que les invitará a la fiesta de piscina de El Fabuloso que viene celebrando los últimos años en Ibiza.</desc>
+        <icon src="https://images.pluto.tv/series/64214d00a659cb001a0d682b/tile_1779370921377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c51060ed1b1f1acb5092dc" start="20261030031100 +0000" stop="20261030060000 +0000">
         <title>Alaska y Mario</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/featuredImage_1778483817519.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31255,7 +31655,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Cuando el juez Cases recibe la noticia del asesinato de su esposa finge sorpresa, deja a Magda en Mallorca y vuelve en el primer avión.</desc>
         <icon src="https://images.pluto.tv/series/6a43d01bce1637b4f4bce35a/tile_1790722810468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43d3bae0c1a33841302952" start="20261030020705 +0000" stop="20261030060000 +0000">
+    <programme channel="6a43d3bae0c1a33841302952" start="20261030020705 +0000" stop="20261030030740 +0000">
+        <title>Noche y día</title>
+        <desc>Ramos llega a casa de madrugada. Su padre le está esperando.</desc>
+        <icon src="https://images.pluto.tv/series/6a43d01bce1637b4f4bce35a/tile_1790722810468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43d3bae0c1a33841302952" start="20261030030740 +0000" stop="20261030060000 +0000">
         <title>Noche y día</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/featuredImage_1786017565906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31745,7 +32150,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>En el restaurante de Bubble Guppies, el grupo sirve las mesas, cocina y se dispone a servir a su cliente más difícil de todos. ¿Pero hay algo en el menú que pueda hacer sonreír a Pez Gruñón?</desc>
         <icon src="https://images.pluto.tv/series/6a0d9d888b8e147fa4a8cccb/tile_1785193874809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20261030021907 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261030021907 +0000" stop="20261030024221 +0000">
+        <title>Rusty Rivets</title>
+        <desc>Tras ver a Rusty jugar con Botarilla, Liam decide que quiere una mascota. Pero antes, debe a prender a ser responsable // Cuando Liam sobrecarga la mega-batería de Rusty, crea accidentalmente un campo de fuerza en el patio de reciclaje.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d9d89d37cdd39e287e064/tile_1785193875428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261030024221 +0000" stop="20261030030535 +0000">
+        <title>Rusty Rivets</title>
+        <desc>Rusty y Ruby deben encontrar la forma de estallar unas burbujas que han atrapado a Bytes y a la señora Rivets antes de que floten hasta el espacio // Liam y Emily encienden el submarino y se sumergen en el mar. Rusty y Ruby deben rescatarlos.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d9d89d37cdd39e287e064/tile_1785193875428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261030030535 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31755,7 +32170,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
         <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20261030020610 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20261030020610 +0000" stop="20261030023610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20261030023610 +0000" stop="20261030030610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20261030030610 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31765,7 +32190,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Episodio especial que repasa los mejores momentos de la temporada.</desc>
         <icon src="https://images.pluto.tv/series/62f60aafb80401001a300052/tile_1783003566012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20261030024149 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1aadf373bed3000794d1d7" start="20261030024149 +0000" stop="20261030034049 +0000">
+        <title>Gandía Shore: Especial "Diario Secreto"</title>
+        <desc>Ylenia, Clavelito, Abraham, Core, Gata, Esteban, Labrador y Arancha comentarán los mejores momentos del reality. Escenas nunca vistas, las más polémicas, momentos inolvidables, los más subidos de tono, secretos nunca antes confesados...</desc>
+        <icon src="https://images.pluto.tv/series/62f60aafb80401001a300052/tile_1783003566012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aadf373bed3000794d1d7" start="20261030034049 +0000" stop="20261030060000 +0000">
         <title>MTV Originals</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31775,7 +32205,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
         <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261030020701 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261030020701 +0000" stop="20261030023701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261030023701 +0000" stop="20261030030701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261030030701 +0000" stop="20261030060000 +0000">
         <title>Bob Esponja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31785,7 +32225,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Invitado: martín berasategui. platos del día: cabeza de jabalí con salsa lasarte. picantón asado con patatas aplastadas</desc>
         <icon src="https://images.pluto.tv/series/5f7eee6072d139001a18ec11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261030022255 +0000" stop="20261030060000 +0000">
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261030022255 +0000" stop="20261030030055 +0000">
+        <title>Robin Food: Episode 61</title>
+        <desc>Platos del día: pastel de carne y patatas. pulga "celia cruz". sección guarrindongadas</desc>
+        <icon src="https://images.pluto.tv/series/5f7eee6072d139001a18ec11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261030030055 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Cocina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31805,7 +32250,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
         <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
+        <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
+        <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>MTV Ink Master</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/featuredImage_1783599834588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31815,7 +32270,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Segunda parte del viaje de Frank y su equipo por la selva de Costa Rica, en la que sigue encontrando aniamlaes de lo más variado, desde un puercoespín mexicano hasta un vampiro.</desc>
         <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600ae6a78d801e0007117d21" start="20261030022615 +0000" stop="20261030060000 +0000">
+    <programme channel="600ae6a78d801e0007117d21" start="20261030022615 +0000" stop="20261030032415 +0000">
+        <title>Frank de la jungla: Adiós Costa Rica y vuelta a Bangkok</title>
+        <desc>Segunda parte del viaje de Frank y su equipo por la selva de Costa Rica, en la que sigue encontrando animales de lo más variado, desde un puercoespín mexicano hasta un vampiro.</desc>
+        <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600ae6a78d801e0007117d21" start="20261030032415 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Animales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31825,7 +32285,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
         <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20261030022952 +0000" stop="20261030060000 +0000">
+    <programme channel="604f81a49ef73300070e554f" start="20261030022952 +0000" stop="20261030025952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20261030025952 +0000" stop="20261030032952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20261030032952 +0000" stop="20261030060000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31835,7 +32305,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
         <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20261030022000 +0000" stop="20261030060000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20261030022000 +0000" stop="20261030025000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20261030025000 +0000" stop="20261030032000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20261030032000 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31845,7 +32325,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
         <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="60dd6b1da79e4d0007309455" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31855,7 +32345,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Los Rugrats son ahora preadolescentes teniendo que lidiar con nuevos problemas, hacer nuevos amigos y alcanzar sus sueños.</desc>
         <icon src="https://images.pluto.tv/series/60532085b37578001a007d88/tile_1769116321720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20261030020900 +0000" stop="20261030060000 +0000">
+    <programme channel="610c09219fc0430007a3fce6" start="20261030020900 +0000" stop="20261030023400 +0000">
+        <title>Más grandes y traviesos: Charla alrededor del fuego - Parte 2</title>
+        <desc>Los Rugrats son ahora preadolescentes teniendo que lidiar con nuevos problemas, hacer nuevos amigos y alcanzar sus sueños.</desc>
+        <icon src="https://images.pluto.tv/series/60532085b37578001a007d88/tile_1769116321720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20261030023400 +0000" stop="20261030025900 +0000">
+        <title>Más grandes y traviesos: Poca aptitud</title>
+        <desc>Los Rugrats son ahora preadolescentes teniendo que lidiar con nuevos problemas, hacer nuevos amigos y alcanzar sus sueños.</desc>
+        <icon src="https://images.pluto.tv/series/60532085b37578001a007d88/tile_1769116321720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20261030025900 +0000" stop="20261030032400 +0000">
+        <title>Más grandes y traviesos: Salvando a Cynthia</title>
+        <desc>Los Rugrats son ahora preadolescentes teniendo que lidiar con nuevos problemas, hacer nuevos amigos y alcanzar sus sueños.</desc>
+        <icon src="https://images.pluto.tv/series/60532085b37578001a007d88/tile_1769116321720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20261030032400 +0000" stop="20261030060000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/featuredImage-1632239835308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31865,7 +32370,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d8dc943001000708548d" start="20261030020944 +0000" stop="20261030060000 +0000">
+    <programme channel="6130d8dc943001000708548d" start="20261030020944 +0000" stop="20261030023944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20261030023944 +0000" stop="20261030030944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20261030030944 +0000" stop="20261030060000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/featuredImage_1783323270470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31875,7 +32390,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Después de tener noticias del regreso de los Kraang, las Tortugas se enteran de que hay una amenaza aun mayor viniendo a la Tierra.</desc>
         <icon src="https://images.pluto.tv/series/600fdad1e5c9e7001aaf8883/tile_1774278721122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373f1a12dd9f00077dcd6f" start="20261030022620 +0000" stop="20261030060000 +0000">
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261030022620 +0000" stop="20261030025120 +0000">
+        <title>Las Tortugas Ninja: Más allá del Universo conocido</title>
+        <desc>El equipo conoce a un extraño robot alienígena llamado Fugitoide.</desc>
+        <icon src="https://images.pluto.tv/series/600fdad1e5c9e7001aaf8883/tile_1774278721122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261030025120 +0000" stop="20261030031620 +0000">
+        <title>Las Tortugas Ninja: Las Lunas de Thalos 3</title>
+        <desc>Cuando el equipo se estrella contra una luna de hielo junto con el enemigo, ambos deben dejar a un lado sus diferencias para sobrevivir.</desc>
+        <icon src="https://images.pluto.tv/series/600fdad1e5c9e7001aaf8883/tile_1774278721122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261030031620 +0000" stop="20261030060000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31885,7 +32410,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Cuando Sam y Freddie ganan un concurso para tener la mejor taquilla del colegio, están obligados a compartir la misma taquilla. Mientras tanto, Carly le pide a Spencer clases de dibujo.</desc>
         <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6181404ef48321000797bc41" start="20261030020400 +0000" stop="20261030060000 +0000">
+    <programme channel="6181404ef48321000797bc41" start="20261030020400 +0000" stop="20261030025400 +0000">
+        <title>iCarly: Pelea Con Shelby Marx</title>
+        <desc>Carly bromea sobre la posibilidad de batir a Shelby Max, una boxeadora muy buena, en su web online. Shelby lo entiende de otra manera y ahora Carly tiene que luchar contra ella.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20261030025400 +0000" stop="20261030031900 +0000">
+        <title>iCarly: Premios iCarly</title>
+        <desc>Carly, Sam y Freddie presentan los premios iCarly para el mejor usuario generador de contenido, dándole el premio a los ganadores en directo en el show online. Spencer se apunta para ser modelo de bañador europeo, para ayudar a constuir el premio.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20261030031900 +0000" stop="20261030060000 +0000">
         <title>iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31895,7 +32430,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El equipo de investigación del programa contacta con el entorno más cercano de Conchi, conocida como "la viuda negra" de Alicante, para conocer toda la verdad sobre esta historia de estafa y asesinato de dos personas.</desc>
         <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61922be835f3910007fc58f6" start="20261030021900 +0000" stop="20261030060000 +0000">
+    <programme channel="61922be835f3910007fc58f6" start="20261030021900 +0000" stop="20261030032800 +0000">
+        <title>En el punto de mira: Bebés atrapados</title>
+        <desc>Una investigación a fondo del caso de más de 30 parejas que llevan desde julio atrapadas en Ucrania junto a sus bebés, concebidos por gestación subrogada.</desc>
+        <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61922be835f3910007fc58f6" start="20261030032800 +0000" stop="20261030060000 +0000">
         <title>En el punto de mira</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61922be835f3910007fc58f6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31905,7 +32445,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Las Pixies, bajo el efecto de un hechizo, intentan volver a su aldea.</desc>
         <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62568a94ed1f380007b0211f" start="20261030020900 +0000" stop="20261030060000 +0000">
+    <programme channel="62568a94ed1f380007b0211f" start="20261030020900 +0000" stop="20261030023500 +0000">
+        <title>Winx Club: Las Winx se unen</title>
+        <desc>Un especialista, que estaba bajo un hechizo, corrompe las condiciones de una prueba de la cámara de simulación.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20261030023500 +0000" stop="20261030030100 +0000">
+        <title>Winx Club: Las Pixies invisibles</title>
+        <desc>Musa y Layla van a la Tierra y llaman la atención de unos ladrones locales cuando, sin querer, usan su magia.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20261030030100 +0000" stop="20261030060000 +0000">
         <title>Winx Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31915,7 +32465,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La noche de jazz con disfraces de Deena solo se ve superada cuando planea otro Día En Familia con camisas a juego. Además, Angelina invita a su nuevo novio a las vacaciones.</desc>
         <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1786350961068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261030023310 +0000" stop="20261030060000 +0000">
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261030023310 +0000" stop="20261030032100 +0000">
+        <title>Jersey Shore: Vacaciones en familia</title>
+        <desc>El nuevo chico de Angelina llega justo a tiempo para la fiesta del divorcio. Snooki quema el vestido de novia de Angelina. Pauly lleva a todos a un tour por la casa más encantada del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1786350961068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261030032100 +0000" stop="20261030060000 +0000">
         <title>MTV Jerseys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31925,7 +32480,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>500 años antes de Cristóbal Colón los vikingos fueron los primeros en descubrir América. Entre ellos estaba Erik el Rojo, así lo llamaban porque su cabello rojo era reconocible incluso desde la distancia.</desc>
         <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c69c87808b740007599fe1" start="20261030020300 +0000" stop="20261030060000 +0000">
+    <programme channel="63c69c87808b740007599fe1" start="20261030020300 +0000" stop="20261030023200 +0000">
+        <title>Érase una vez… Los exploradores: Gengis Kan</title>
+        <desc>Su nombre es Temudjin, es un niño nómada y algún día se convertirá en uno de los más grandes conquistadores de todos los tiempos: Gengis Khan. Su padre muere cuando aún es un niño.</desc>
+        <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20261030023200 +0000" stop="20261030030100 +0000">
+        <title>Érase una vez… Los exploradores: Ibn Battuta</title>
+        <desc>1325. Un joven bereber llamado Ibn Battuta sale de Marruecos en peregrinación a La Meca, como debe hacer todo buen musulmán. Poco sabe él, ni sus padres, sobre el viaje que está a punto de emprender.</desc>
+        <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20261030030100 +0000" stop="20261030060000 +0000">
         <title>Érase una vez...</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31935,7 +32500,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
         <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20261030022518 +0000" stop="20261030060000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20261030022518 +0000" stop="20261030025518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20261030025518 +0000" stop="20261030032518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20261030032518 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31945,7 +32520,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20261030021920 +0000" stop="20261030060000 +0000">
+    <programme channel="6523f672a6c38300088cb807" start="20261030021920 +0000" stop="20261030024804 +0000">
+        <title>El Reino Infantil: Episodio 98</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20261030024804 +0000" stop="20261030031823 +0000">
+        <title>El Reino Infantil: Episodio 99</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20261030031823 +0000" stop="20261030060000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6523f672a6c38300088cb807/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31955,7 +32540,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El nazismo ha pasado a la historia como un asunto estrictamente alemán, y sin embargo, esa visión oculta el papel de Austria como campo de pruebas para el proyecto asesino del Tercer Reich.</desc>
         <icon src="https://images.pluto.tv/series/6a9e8459e530723cda20dd99/tile_1788773466850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20261030023100 +0000" stop="20261030060000 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20261030023100 +0000" stop="20261030032500 +0000">
+        <title>Hitler: Revelando Su Obsesión Fatal</title>
+        <desc>En junio de 1941, más de tres millones de soldados del Eje, la mayor fuerza invasora de la Historia, irrumpieron en la Unión Soviética atravesando la frontera como si no existiera.</desc>
+        <icon src="https://images.pluto.tv/series/678e8e312978f1001343f471/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517f923a61d40008c451f0" start="20261030032500 +0000" stop="20261030060000 +0000">
         <title>Historia y Vida</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517f923a61d40008c451f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31965,7 +32555,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El doctor le comunica a Clara que puede ir a las montañas, pero que tiene que esforzarse para valerse por sí misma. Por su parte, el abuelo y Heidi preparan todo para la llegada de Clara.</desc>
         <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68779a09c691b3f0964127c6" start="20261030022600 +0000" stop="20261030060000 +0000">
+    <programme channel="68779a09c691b3f0964127c6" start="20261030022600 +0000" stop="20261030025300 +0000">
+        <title>Heidi 2D: El deseo de Clara</title>
+        <desc>Heidi y Clara se levantan muy temprano para subir a las montañas, y allí Clara conoce a las cabras de Pedro, a Copo de Nieve y a Niebla.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20261030025300 +0000" stop="20261030031900 +0000">
+        <title>Heidi 2D: El proyecto de Pedro</title>
+        <desc>Heidi y Clara se divierten mucho juntos: ven cómo el abuelo hace queso, cogen flores en los alrededores y se preguntan si podrán ir a los prados para coger flores donde son más bonitas.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20261030031900 +0000" stop="20261030060000 +0000">
         <title>Heidi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage-1757319877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31975,7 +32575,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Incluye: Entrevista con Ester Dean / Verdadero o falso con Stacie / ¡El misterio de la goma del pelo desaparecida! / Gran entrega de regalos navideños con Trey / Galletas navideñas con Ken / Cuenta atrás de Nochevieja con Ken y Renee</desc>
         <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20261030020838 +0000" stop="20261030060000 +0000">
+    <programme channel="688892172928933015abe479" start="20261030020838 +0000" stop="20261030023325 +0000">
+        <title>Barbie: Dreamtopia shorts</title>
+        <desc>En Dreamtopia, ¡no hay límite para lo que Chelsea y Barbie pueden imaginar!</desc>
+        <icon src="https://images.pluto.tv/series/6930004b63142c96a91a248c/tile_1764802067566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20261030023325 +0000" stop="20261030032248 +0000">
+        <title>Barbie Dreamtopia (special 2016)</title>
+        <desc>Chelsea participa en una carrera de bicicletas, pero teme pedalear sin ruedines. En Dreamtopia, con la ayuda de Barbie, aprende a confiar en sí misma y descubre que la verdadera magia está en creer en uno mismo.</desc>
+        <icon src="https://images.pluto.tv/series/6936c09082bb3615052d03a7/tile_1765274991784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20261030032248 +0000" stop="20261030060000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31985,7 +32595,22 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20261030020236 +0000" stop="20261030060000 +0000">
+    <programme channel="6888928eb52fb742416673d2" start="20261030020236 +0000" stop="20261030022721 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20261030022721 +0000" stop="20261030025214 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20261030025214 +0000" stop="20261030031706 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20261030031706 +0000" stop="20261030060000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6888928eb52fb742416673d2/featuredImage_1765806188472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31995,7 +32620,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Una Mascota Para Bebé Pitufo / Símbolos De Sabiduría</desc>
         <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27949793c71d988ca624c" start="20261030020847 +0000" stop="20261030060000 +0000">
+    <programme channel="68d27949793c71d988ca624c" start="20261030020847 +0000" stop="20261030023559 +0000">
+        <title>Los Pitufos</title>
+        <desc>Los Pitufos De Jengibre / Secreto Del Pozo De La Aldea</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20261030023559 +0000" stop="20261030030315 +0000">
+        <title>Los Pitufos</title>
+        <desc>Carnaval De Otoño / Detente A Pitufar Rosas</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20261030030315 +0000" stop="20261030060000 +0000">
         <title>Los Pitufos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage_1760370849906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32005,7 +32640,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Clawdeen quiere abrir un salón para monstruos y humanos, pero Moanica trama un sabotaje. ¡La energía sube en esta historia electrizante!</desc>
         <icon src="https://images.pluto.tv/series/69405ac3843d41d249891866/tile_1765825221184.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fe3bcba140ddfe903677" start="20261030022257 +0000" stop="20261030060000 +0000">
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261030022257 +0000" stop="20261030031204 +0000">
+        <title>Monster High: Escape from Skull Shores</title>
+        <desc>Lagoona y sus amigas naufragan en una isla misteriosa con forma de calavera. ¡Una excursión que se convierte en una aventura monstruosa!</desc>
+        <icon src="https://images.pluto.tv/series/69405c18287ec44e145cbe88/tile_1765825561230.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261030031204 +0000" stop="20261030060000 +0000">
         <title>Monster High</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/featuredImage_1761735230690.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32015,7 +32655,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Lewis thinks he’s found a way to control the girl’s mermaidness. The school dance brings all our heroines’ ‘boy issues’ to the surface.</desc>
         <icon src="https://images.pluto.tv/series/6ab54f236d05845d59fac157/tile_1790267380942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69fc906b90dc413f536059a1" start="20261030022138 +0000" stop="20261030060000 +0000">
+    <programme channel="69fc906b90dc413f536059a1" start="20261030022138 +0000" stop="20261030033627 +0000">
+        <title>Dance Academy, Season 1</title>
+        <desc>The National Ballet comes to town and Tara is thrilled to learn that Kat’s mother is Natasha Willis, the Company’s Principal dancer and her childhood idol. Sammy’s girlfriend, Mia, also arrives forcing Sammy to evaluate his growing feelings.</desc>
+        <icon src="https://images.pluto.tv/series/6ab54f2317c0d8c7a3cf37bb/tile_1790267433130.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69fc906b90dc413f536059a1" start="20261030033627 +0000" stop="20261030060000 +0000">
         <title>H2O &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69fc906b90dc413f536059a1/featuredImage_1780583615660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32025,7 +32670,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Pippi, Annika y Tommi pasan una noche increíble en una isla. Cuando el pirata Óscar, el Tuerto, pasa en su barco, Pippi saca su caja de trucos y roba su nave pirata.</desc>
         <icon src="https://images.pluto.tv/series/6a3d0601f667431af60d5069/tile_1782384130650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261030021524 +0000" stop="20261030060000 +0000">
+    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261030021524 +0000" stop="20261030024901 +0000">
+        <title>Pippi Calzaslargas</title>
+        <desc>Los piratas se aterrorizaron al enterarse de la llegada de Pippi. Sin embargo, ella logró sorprender a su padre y finalmente llevarle una comida decente.</desc>
+        <icon src="https://images.pluto.tv/series/6a3d0601f667431af60d5069/tile_1782384130650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261030024901 +0000" stop="20261030032259 +0000">
+        <title>Pippi Calzaslargas</title>
+        <desc>Pippi logra liberar a su padre de la fortaleza. Ahora comienza la verdadera aventura: todos intentarán encontrar el fabuloso tesoro de la isla Taka-Tuka en una emocionante carrera.</desc>
+        <icon src="https://images.pluto.tv/series/6a3d0601f667431af60d5069/tile_1782384130650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261030032259 +0000" stop="20261030060000 +0000">
         <title>Pippi Calzaslargas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/featuredImage_1780494508788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32035,7 +32690,26 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Al Mr. Bean le apetece jugar al golf.</desc>
         <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a31544f2c1c785c1138dbb1" start="20261030020201 +0000" stop="20261030060000 +0000">
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261030020201 +0000" stop="20261030022600 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mr. Bean se entusiasma un poco demasiado mientras limpia su piso y Teddy acaba de camino al vertedero.
+
+Pero cuánta basura + El robot</desc>
+        <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261030022600 +0000" stop="20261030024959 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mr. Bean quiere un helado de cucurucho de la furgoneta de helados. Helado + Fiesta de cumpleaños</desc>
+        <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261030024959 +0000" stop="20261030031358 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mr. Bean intenta cortar el césped del jardín, pero le resulta imposible.
+
+En el jardín + Un día mágico</desc>
+        <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261030031358 +0000" stop="20261030060000 +0000">
         <title>Mr. Bean</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/featuredImage_1788185027046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32045,7 +32719,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La temporada XIV del WPT continúa en Playground Poker Club con WPT Montreal. Jared Mahoney es ahora el líder en fichas. Compite con Brian Altman, Rainer Kempe, Darryll Fish y Carter Widler por la parte del premio acumulado de 1,78 millones de dólares.</desc>
         <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20261030020700 +0000" stop="20261030060000 +0000">
+    <programme channel="6080381ab7c9ea00074ec64c" start="20261030020700 +0000" stop="20261030025700 +0000">
+        <title>World Poker Tour: WPT Montreal - Parte 3</title>
+        <desc>La temporada XIV del WPT continúa en Playground Poker Club con WPT Montreal. Jared Mahoney es ahora el líder en fichas. Compite con Brian Altman, Rainer Kempe, Darryll Fish y Carter Widler por la parte del premio acumulado de 1,78 millones de dólares.</desc>
+        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080381ab7c9ea00074ec64c" start="20261030025700 +0000" stop="20261030035000 +0000">
+        <title>World Poker Tour: Bellagio 5 Diamond World Poker Classic – Parte 1</title>
+        <desc>La temporada XIV del World Poker Tour es en el lujoso Bellagio en Las Vegas, donde el campeón del WPT Kevin Eyster compite contra Jake Schwartz, Eddie Ochana, Bill Jennings, Ben Yu y Cate Hall por la parte del premio acumulado de $ 6.2 millones.</desc>
+        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080381ab7c9ea00074ec64c" start="20261030035000 +0000" stop="20261030060000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32055,7 +32739,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
         <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="60d3583ef310610007fb02b1" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Noticias de última hora</title>
+        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
+        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d3583ef310610007fb02b1" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Noticias de última hora</title>
+        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
+        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d3583ef310610007fb02b1" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32065,7 +32759,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Abril de 1958. Una familia regresa a casa después de salir del cine cuando encuentran, en mitad de la calle, un taxi estacionado con el contacto puesto, las luces encendidas y una puerta abierta.</desc>
         <icon src="https://images.pluto.tv/series/5f7c4d1db06bf7001adb2b4d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61cd7b49543066000713b620" start="20261030024023 +0000" stop="20261030060000 +0000">
+    <programme channel="61cd7b49543066000713b620" start="20261030024023 +0000" stop="20261030035944 +0000">
+        <title>Memoria Negra</title>
+        <desc>La noche del 26 de agosto de 2011 los gritos de la inquilina del apartamento 717 estremecieron a los vecinos de los edificios Pullman, en Mallorca.</desc>
+        <icon src="https://images.pluto.tv/series/5f7c4d1db06bf7001adb2b4d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61cd7b49543066000713b620" start="20261030035944 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61cd7b49543066000713b620/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32075,7 +32774,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
         <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="622f42b831233300078658cc" start="20261030025216 +0000" stop="20261030060000 +0000">
+    <programme channel="622f42b831233300078658cc" start="20261030025216 +0000" stop="20261030035616 +0000">
+        <title>Aragoneses por el mundo: Puerto Rico</title>
+        <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+        <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="622f42b831233300078658cc" start="20261030035616 +0000" stop="20261030060000 +0000">
         <title>Ciudadanos por el mundo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32085,7 +32789,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
         <icon src="https://images.pluto.tv/series/695807cb262748e85886c1b8/tile_1784250164799.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6231ede1be5b460007f91bc1" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>24/7 Primetime</title>
+        <desc>Delivering the news you need to know.</desc>
+        <icon src="https://images.pluto.tv/series/68ed5a7ba44f8dcccd701ec8/tile_1760479390389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ede1be5b460007f91bc1" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>CBS Evening News</title>
+        <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+        <icon src="https://images.pluto.tv/series/695807cb262748e85886c1b8/tile_1784250164799.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ede1be5b460007f91bc1" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32095,7 +32809,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La familia Gray ha estado viviendo en la casa durante diecisiete años, pero querían adaptarla para el futuro.</desc>
         <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20261030025023 +0000" stop="20261030060000 +0000">
+    <programme channel="64db2e0835425100080f2f5a" start="20261030025023 +0000" stop="20261030034807 +0000">
+        <title>Espacio Para Mejorar</title>
+        <desc>David y Nessa Conlon acaban de comprar este bungalow independiente de varios niveles, construido en los años 90.</desc>
+        <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64db2e0835425100080f2f5a" start="20261030034807 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Diseño</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32105,7 +32824,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Mientras hace un servicio a la comunidad en el hospital local, Kelly se ve atrapada en el cuerpo de Jen, una víctima en coma. Jen, paseando en el cuerpo de Kelly, sale, dejando a Kelly en coma.</desc>
         <icon src="https://images.pluto.tv/series/611529ce975c210013c1a0a8/tile_1769126762783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ddec1ef7f0af0008be4b65" start="20261030024604 +0000" stop="20261030060000 +0000">
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20261030024604 +0000" stop="20261030034004 +0000">
+        <title>Misfits: Episodio 6</title>
+        <desc>Después de una noche bebido con una chica misteriosa, Rudy descubre que tiene un extraño superpoder STD. Con solo 24 horas para deshacer el hechizo, Rudy acude a Simon para ayudarle a encontrar a la chica.</desc>
+        <icon src="https://images.pluto.tv/series/611529ce975c210013c1a0a8/tile_1769126762783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20261030034004 +0000" stop="20261030060000 +0000">
         <title>Pluto TV Series Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32115,7 +32839,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El equipo se enfrenta a una de sus amenazas más peligrosas e inusuales, un hongo mortal que se alimenta de carne. Literalmente, el hongo se lleva a cualquier humano que entra en contacto con él.</desc>
         <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65dded9a0d456100081417ae" start="20261030021000 +0000" stop="20261030060000 +0000">
+    <programme channel="65dded9a0d456100081417ae" start="20261030021000 +0000" stop="20261030030200 +0000">
+        <title>Primeval: Invasión jurásica: Episodio 6</title>
+        <desc>El equipo está investigando un misterioso artefacto cuando un gobierno oficial, respaldado por los militares invade el ARC en su búsqueda.</desc>
+        <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65dded9a0d456100081417ae" start="20261030030200 +0000" stop="20261030060000 +0000">
         <title>Primeval</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65dded9a0d456100081417ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32125,7 +32854,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
         <icon src="https://images.pluto.tv/series/661503a01ed2fc0013a39c61/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20261030022000 +0000" stop="20261030060000 +0000">
+    <programme channel="65f96cd34e01740008ef1c97" start="20261030022000 +0000" stop="20261030041500 +0000">
+        <title>Fútbol UEFA Champions League</title>
+        <desc>Cobertura de los partidos de la UEFA Champions League, el torneo de clubes más importante de Europa.</desc>
+        <icon src="https://images.pluto.tv/series/661503a11ed2fc0013a39eaa/tile_1778634674455.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20261030041500 +0000" stop="20261030060000 +0000">
         <title>Realmadrid TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32145,7 +32879,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20261030030000 +0000" stop="20261030060000 +0000">
+    <programme channel="66c45c0de7f5e80008b82005" start="20261030030000 +0000" stop="20261030040000 +0000">
+        <title>Top stories from CNN</title>
+        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
+        <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c45c0de7f5e80008b82005" start="20261030040000 +0000" stop="20261030060000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/featuredImage_1775159727857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32155,7 +32894,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Two-time world champion Adrian Lewis steps back into the spotlight in an exclusive interview with Chris Murphy.</desc>
         <icon src="https://images.pluto.tv/series/689a07399017101f050d6222/tile_1779228691213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67164414e40c4a00087f450d" start="20261030020700 +0000" stop="20261030060000 +0000">
+    <programme channel="67164414e40c4a00087f450d" start="20261030020700 +0000" stop="20261030024100 +0000">
+        <title>Break of Throw: Raymond van Barneveld</title>
+        <desc>Glen Durrant analyses Barney's throw with expert insight from Raymond van Barneveld himself.</desc>
+        <icon src="https://images.pluto.tv/series/68aca816fd92ab53e8c8064d/tile_1756954071608.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67164414e40c4a00087f450d" start="20261030024100 +0000" stop="20261030031600 +0000">
+        <title>Break of Throw: Left Handers</title>
+        <desc>Scott Mitchell studies the technique behind the left-handed throws of Graham Usher and Scott Campbell.</desc>
+        <icon src="https://images.pluto.tv/series/68bf0f6c8376cad38d2ce738/tile_1757531651975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67164414e40c4a00087f450d" start="20261030031600 +0000" stop="20261030060000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67164414e40c4a00087f450d/featuredImage_1732095042126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32165,7 +32914,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
         <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517fae5534bb0008187997" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="67517fae5534bb0008187997" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Actualidad 360</title>
+        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
+        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517fae5534bb0008187997" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Actualidad 360</title>
+        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
+        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517fae5534bb0008187997" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Actualidad 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32175,7 +32934,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
         <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="67921b873de7c8cf94233f52" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>UFC</title>
+        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b873de7c8cf94233f52" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>UFC</title>
+        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b873de7c8cf94233f52" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32195,7 +32964,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
         <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Metal Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32205,7 +32984,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Con dos hijos pequeños, Melissa y Joe vendieron su primera casa y se fueron a vivir con sus padres. Ansiosos por más espacio y privacidad, la pareja necesita encontrar un hogar definitivo.</desc>
         <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20261030024400 +0000" stop="20261030060000 +0000">
+    <programme channel="690dd10a37b131228d76d5b1" start="20261030024400 +0000" stop="20261030033600 +0000">
+        <title>La casa de mis sueños</title>
+        <desc>Aven y Phillip son novios y se enfrentan a una serie de desafíos. El principal es encontrar un hogar espacioso, con patio trasero para el perro y, finalmente, mudarse del hotel donde están viviendo.</desc>
+        <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690dd10a37b131228d76d5b1" start="20261030033600 +0000" stop="20261030060000 +0000">
         <title>El Mueble</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage_1764966923664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32225,7 +33009,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261030024200 +0000" stop="20261030060000 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20261030024200 +0000" stop="20261030025300 +0000">
+        <title>FIA European Rally Championship Highlights</title>
+        <desc>Highlights of the goings-on from the FIA European Rally Championship.</desc>
+        <icon src="https://images.pluto.tv/series/69aeb8c06d7de5ca36a5aed0/tile_1773058241097.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20261030025300 +0000" stop="20261030030500 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20261030030500 +0000" stop="20261030060000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32235,7 +33029,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
         <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="69b3db5d61e8e298254c7108" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>Space Live</title>
+        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
+        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db5d61e8e298254c7108" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>Space Live</title>
+        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
+        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db5d61e8e298254c7108" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/featuredImage_1775061733929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32245,7 +33049,12 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>¡Revive el evento de Airtox Dominance FC 4.0, celebrado durante enero del 2026!</desc>
         <icon src="https://images.pluto.tv/series/6a0c4e24f667431af6a8bdb8/tile_1779191333192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20261030024722 +0000" stop="20261030060000 +0000">
+    <programme channel="69f9c50202b6c1c00a213519" start="20261030024722 +0000" stop="20261030045408 +0000">
+        <title>Airtox Dominance FC 01</title>
+        <desc>¡Revive el evento de Airtox Dominance FC 1.0, celebrado durante septiembre del 2024, en K.B. Hallen!</desc>
+        <icon src="https://images.pluto.tv/series/6a0c4ddeeda6339c48fc7172/tile_1779191263057.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69f9c50202b6c1c00a213519" start="20261030045408 +0000" stop="20261030060000 +0000">
         <title>Dominance FC TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/featuredImage_1777976664055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32255,7 +33064,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
         <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43c8e19d516ba88f728627" start="20261030022215 +0000" stop="20261030060000 +0000">
+    <programme channel="6a43c8e19d516ba88f728627" start="20261030022215 +0000" stop="20261030025215 +0000">
+        <title>Tennis Channel</title>
+        <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43c8e19d516ba88f728627" start="20261030025215 +0000" stop="20261030032215 +0000">
+        <title>Tennis Channel</title>
+        <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43c8e19d516ba88f728627" start="20261030032215 +0000" stop="20261030060000 +0000">
         <title>Tennis Channel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/featuredImage_1782827298629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32275,7 +33094,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846c44496b635ad62aa13e" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6a846c44496b635ad62aa13e" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>That's 80s</title>
+        <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846c44496b635ad62aa13e" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>That's 80s</title>
+        <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846c44496b635ad62aa13e" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>That's 80s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/featuredImage_1790781375896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32285,7 +33114,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846cb6840f7d654710df00" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6a846cb6840f7d654710df00" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>That's 90s00s</title>
+        <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846cb6840f7d654710df00" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>That's 90s00s</title>
+        <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846cb6840f7d654710df00" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>That's 90s00s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846cb6840f7d654710df00/featuredImage_1790842102809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32295,7 +33134,17 @@ Pájaro Exótico + Bean y el Safari</desc>
         <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261030023000 +0000" stop="20261030060000 +0000">
+    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261030023000 +0000" stop="20261030030000 +0000">
+        <title>That's Rock</title>
+        <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261030030000 +0000" stop="20261030033000 +0000">
+        <title>That's Rock</title>
+        <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261030033000 +0000" stop="20261030060000 +0000">
         <title>That's Rock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846ccd99e7db5e8a1d9b5f/featuredImage_1790781023873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
